@@ -1,0 +1,771 @@
+A Writeup of Washu For the 3rd edition of
+Dungeons and Dragons
+
+by Paul "BigRed" Shannon,  pjshanno@yahoo.com
+
+Both Washu and D&D are the property of their
+respective owners. I make no claim to them. This is
+done out of admiration of the character and my long
+time infatuation with Dungeons and Dragons.  This may
+not be exchanged for any form of compensation.
+
+Acknowledgements: I would like to thank the following
+people for their comments, criticisms, and
+suggestions. Bruce Grubb bgrubb@zianet.com , Nargun
+louisrp@student.unimelb.edu.au , and William
+wlit0613@postoffice.uri.edu. I would also like to
+thank. Brian “The Red Writer” Cheek
+TheRedWriter@cs.com  who coauthored my write-up of
+Washu for Ad&d 2nd edition, which this is based on.
+
+Washu
+
+Gender: Female
+Age: 20000+ years
+Size: Medium (height 4’10” weight 95 lbs)
+Description:  A cute little girl with large green eyes
+and spiky Reddish pink hair. She has a decidedly
+exotic look to her. (She also can appear as a
+stunningly beautiful woman but rarely does)
+Race: Special (The best way to describe her is a type
+of Avatar)
+Alignment: CG (with neutral tendencies)
+Class: 20 Expert/3 Wizard (Diviner)
+CR: 21
+Hit Dice (20d8+4)+(3d4+4)
+Hit Points: 190
+Movement: 30 ft
+
+Abilities (score, modifier)
+
+Str 19, +4
+Dex 20 +5
+Con 18 +4
+Int 50 +20
+Wis 16 +3
+Cha 16 +3
+
+Saving throws (total, (base, modifier))
+Fort +11 (+7,+4)
+Ref +12  (+7, +5)
+Will +17 (+15, +3)
+
+Combat
+Initiative +5 (Dex)
+AC 21 (base 10 +6 (natural) +5 (Dex modifier)
+Base attack bonus +16/11/6/1
+Melee +21/16/12/6 (base +4 (str modifier) +1 (master
+work weapon))
+Ranged  +21/16/12/6 (Base +5 (dex modifier))
+
+Weapons (name, attack bonus, damage, critical, Range
+(if needed) type, size, Special (if needed), magical
+(if needed))
+
+Melee
+
+Wakizashi (short sword), +21/16/12/6, 1d6+4, 19-20/x2,
+Slashing, small, Masterwork weapon +1 to hit,
+
+
+Energy Sword (see Special attacks) +22/17/13/7,
+1d10+10 (+6 special, +4 Str), 18-19/x2 20/death ( due
+to decapitation or mortal wound., if opponent is huge
+or larger x4 damage instead) , slashing, small,
+special:( +2 to hit, +6 damage;  ignores first 10
+points of natural and/or nonmagial armor; damage
+reduction increases target’s AC by enhancement bonus
+needed to bypass the Damage Reduction.)
+
+Ranged
+
+Revolver, +21, 1d10, x3, 100 ft, Piercing, small.
+
+This is a pistol of Washu’s own design.  She usually
+carries 39 rounds of ammo. If she runs out she needs
+an Alchemy/chemistry lab to make more (difficulty
+Class 30 for alchemy and 23 for chemistry). the cost
+is 5gp a round.
+
+$Energy bolt (see special attacks), +23,  5d6+10,
+death (fort save dc15 for normal damage),100ft, Type:
+special,  only needs to make a ranged touch attack to
+hit.,
+
+Notes on weapons.  Washu is trying to keep a low
+profile,  so she will only use her energy sword and
+energy bolt as a last resort. She prefers to not fight
+at all or use spells (preferred) or her Wakizashi and
+revolver (A shot into the air would probably scare off
+most street toughs).
+
+Armor
+
+None. Washu dose not want any armor that will
+interfere with her magic (with her energy shield, she
+really dose not need any).  When she gets the skill
+however, she will probably craft magical protection
+(If just for practice).
+
+Energy shield (see special  attacks)
+
+Special Attacks. (DM note, I have based this write-up
+on Washu as depicted in the OAV, and Mangas.  She is a
+VERY powerful character.  If you want to limit her
+power and depict her as she is only in the OAV’s. I
+suggest you remove the abilities with the ($) in front
+of them
+
+Energy sword (Ex)  Washu can generate this as a
+standard action at will.  This weapon is a beam of
+intense energy and can effortlessly slice though metal
+and stone (not to mention flesh)  if it hits it
+destroys an opponent’s armor or shield. It also
+destroys any weapon that it hits (magical Items can
+make a  fort save (DC20) to not be destroyed)
+
+$Energy Bolt. (Ex)  can only be used one every 3
+turns.  Washu can control the power of this weapon.
+(the damage above is at full power)  if she dose, she
+can reduce the number of dice of damage if inflicts.
+She can also use it to subdue an opponent (in that
+case the damage becomes subdual damage and a critical
+hit stuns an opponent for 1d4 rounds.).
+
+(Alternate Energy bolt, +21 1d6+4,  x3, 50 ft,  Type:
+Special, only needs to make a ranged touch attack to
+hit. Can be used once every other round. This is more
+like what she used in Oav # 12)
+
+Turn or destroy undead (Ex).  Because of the divine
+power within her, Washu can turn/destroy undead as a
+15th level cleric.
+
+$Energy shield. (Ex) Washu can generate this as a free
+action at will. This shield surrounds washu and up to
+two other medium size or smaller beings in contact
+with her.  As long as it is up, it takes all attacks
+directed at her.  It has the following qualities:  120
+hp, AC 35, damage reduction +3/ 15 and  regenerates
+5hp per round.  If it is destroyed  washu takes 1d20
+hp of damage and is stunned for 1d4 rounds. Also, she
+then cannot generate it again until the next day.
+
+Spell like qualities.  (Ex) Even though these act like
+spells they are extraordinary abilities  possessed by
+washu and thus can’t be  dispelled and are not subject
+to an antimagic field or spell resistance.
+
+Teleport/ 5 times a day, $cure serious wounds/1 a day.
+
+
+Special Qualities
+
+Toughness. (Ex)  Whether due to the divine power
+within her or due to genetic manipulation, Washu is
+much tougher that an ordinary humanoid. This is
+evident in the following extraordinary abilities. +6
+to AC, Fast Healing, (1hp.) can’t be charmed, $immune
+to all poisons and non-magical diseases. $Immune to
+energy drain, $and her soul cannot be trapped.
+
+Immortal.  Washu is effectively immortal. Therefore
+she does not age.
+
+Skills. Because of her intelligence, Washu has almost
+1000 skill points.  The following skills are only
+those that would have some affect in the D&D world.
+She has many other skills besides these. The below
+skills include ability modifiers.
+
+Skills acquired as an Expert.  (* means class skill (
+a lot of these are of only limited use in the Ad&d
+world, ^ means see below)
+
+Bluff +14,climb +13, *Craft (Engineering and design)
++43, *Craft (assembly and construction) +43, Disable
+device +31, *escape artist +28, forgery +31, *
+knowledge (Genetics)+43, *Knowledge (Physics) +43,
+*Knowledge (Biology) +43, * Knowledge (Electronics)
++43, listen +14,  *Profession (Scientist) +26, sense
+motive, +14, Swim +15, *Chemistry^  +43,  *Medicine^
++43.
+
+Skills acquired as a Wizard
+
+Appraise +23, balance +8, *concentration +11,
+*Decipher Script +27, diplomacy +6, disguise +6,
+Gather information +6, Handle animal +6, Hide +6,
+Innuendo +6, *knowledge (Arcane) +27, jump +7, pick
+pocket +8, Read Lips +23, ride +7, *scry +27, search
++23,  *Spellcraft +27, spot +6, tumble +8, use rope +8
+
+New skills.
+
+Chemistry (int),  This skill is like alchemy but
+represents a much more fundamental understanding of
+substances.  Therefore, somebody with this skill can
+make an alchemy check at 75% of the listed DC.  A
+chemist needs a chemistry kit  (washu had to put hers
+together herself).  The costs associated with doing
+Tasks are twice as much as the cost if for an
+alchemist.  A chemistry lab give a + 4 circumstance
+bonus to a chemist.  The cost of putting together  a
+lab is 5 time the cost of  an alchemy lab. If you only
+have alchemist equipment you have to make the alchemy
+check at 110% of the DC.
+
+Medicine  (int) This skill is like Healing but
+represents a better understanding of the body.  A
+person with this skill can make a healing check at 75%
+of the listed DC.  But to use this skill you need a
+medical kit. Washu had to make one from scratch and
+the cost of assembling it was 5 time the cost of a
+healing kit. If you don’t have a medical kit you can
+still make a healing check but at the full DC if you
+have a healing kit.
+
+Feats
+
+Expert feats,  skill focus (for craft, profession, and
+knowledge)  Martial weapon proficiency (short sword),
+Exotic weapon proficiency (firearms and futuristic).
+
+Wizard feats,   1st spell mastery(Div),  3rd  Craft
+wondrous Item
+
+Languages.  Washu knows dozens of languages from our
+reality but these are useless in the Ad&d world,
+except for English, which happens to be 50%
+intelligible with common. So far she has learned
+common, eleven, gnomish, dwarven, draconic, halfling,
+and celestial, and infernal.
+
+Spells per day.  4+1/7+1/6+1
+
+Spell book.  Washu has specialized in Divination. This
+school is perfect for her inquisitive nature. Washu’s
+prohibited school is Necromancy (she prefers to tamper
+with the forces of life and death with science and
+finds the dark nature of some of the spells in this
+school distasteful).  Since she has powerful natural
+attacks, her spells tend not to be attack spells.
+Beside her prohibited school though, every thing else
+is fair game. When she has the skill, she will
+probably study more spells in the Conjuration and
+Transmutation schools since these both have spells in
+them that promote dimensional travel. (Gate,
+planeshift and such).  With no doubt, she will also
+invent some totally new spells (I have given some
+possible ones below). Her diligent research has
+resulted in a spell book that has all 0 level spells,
+23 1st level spells and 10 second level spells.
+
+Suggested spells.  (If marked with & replace with
+alternate spells below)
+0th all/ 1st alarm, endure elements&, hold portal,
+mount&, summon monster I, obscuring mist&, unseen
+servant, Comprehend languages, detect secret doors,
+Identify, detect undead, true strike, charm person,
+Hypnotism, sleep, Tensor’s floating disk, change self,
+animate rope&, enlarge, feather fall, jump,
+ventriloquism, erase/  2nd arcane lock, web, detect
+thoughts, locate object, see invisibility, knock,
+levitate, continual flame, Tasha’s hideous laughter&,
+daylight&.
+
+(Alternate spells. If you chose not to give Washu the
+powers marked above with $. I suggest substituting
+these spells with the ones marked above.  If Washu did
+not have the above powers, she would have to rely more
+on her new magical knowledge to defend herself.
+
+1st shield, mage armor, magic missile, burning hands /
+2nd Melf’s acid arrow, resist elements. )
+
+New spells.  (This is for the DM’s reference. As she
+is now, Washu dose not have the skill yet to invent
+new spells. But eventually she will. These are named
+after her of course, since she would want everybody to
+know who developed them. Most of these spells were
+developed by her to save time her time in studying
+materials and assembling her inventions).
+
+Washu’s instant peruse.
+Divination.
+
+Level: Sor/Wiz 3.
+Components: (S) (F).
+Casting time: 1 action.
+Target: 1 book.
+Duration: instantaneous
+Saving throw. None
+Spell resistance. Yes.
+
+This spell allows the caster to understand any book as
+if he/she had taken time to quickly read though it.
+The caster gets the general concepts that are in the
+book but nothing that would require careful study of
+its contents.  If the object is a spell book, the
+caster gets a general description each spell inside
+but not nearly enough to add any of them to her/his
+own spell book. If the book that this is attempted on
+has any kind of magical protection, the spell
+automatically fails (though you can deal with that
+beforehand).  The focus of the spell is a pair of
+silver reading glasses that the caster must look
+though as if reading the book.
+
+Washu’s instant copy.
+Transmutation.
+
+Level: Sor/Wiz 3.
+Components: (S) (M) (F)
+Casting time: 1 round
+Target: 1 sheet of paper or page of book.
+Duration: instantaneous
+Saving throw: none
+Spell resistance: Yes
+
+This spell allows the caster to make an instant copy
+of the writing on a sheet if paper or one page in a
+book. A 1st level spell can be copied but the spell
+still must be studied as in the player’s handbook for
+the caster to add it to his spell book.  If a page or
+sheet has any sort of magical protection the spell
+fails. A copy of a 1st level scroll can be used to try
+to lean the spell but dose not have any magical
+properties like the original.  The focus of the spell
+is a silver fountain pen and the material component is
+the ink in the pen and a blank sheet of paper.  When
+the spell is cast the caster places his hand on the
+page she/he wants copied and touches the pen to the
+blank sheet.
+
+Washu’s greater instant copy
+Transmutation.
+
+Level: Sor/Wiz 4.
+Components: (S) (M) (F)
+Casting time: 10 minutes
+Target: 1 book, scroll, or stack of engineering
+drawings.
+Duration: instantaneous.
+Saving throw: none.
+Spell resistance: Yes.
+
+This spell is identical to the above except that a
+whole book, scroll, or set of blueprints can be
+copied. A spell book can also be copied, but the
+spells in the book must be studied to add them to your
+own spell book. You can copy your own spell book but
+you must pay the same material cost as if you were
+copying it the normal way. You can copy any spell
+scroll and use the copy to try to lean the spell, but
+the copy dose not have the magical properties of the
+original. The focus of the spell is a silver pen and
+inkwell. The material components are a blank book,
+scroll, or sheets of paper of at least the same size
+as the book or drawings being copied and  the ink in
+the inkwell.
+
+Washu’s Instant analysis.
+Divination
+
+Level: Sor/Wiz 5.
+Components: (S) (M) (F)
+Casting time:  1 Hour
+Target: 1 object.
+Duration: instantaneous.
+Saving throw: none but see below.
+Spell resistance: Yes.
+
+This spell allows the caster to make a detailed set of
+engineering drawings for a mechanical object.  However
+the caster must have the skill Craft (engineering and
+design) and must make a skill check as if she was
+analyzing the object and making the drawings normally.
+If the object is magical or has any magical protection
+the spell fails if the caster that made or protected
+the object has a higher caster level that the person
+casting the spell.  The focus of this spell is a
+platinum engineers scale that is encrusted with gems.
+This must be worth at least 1000 gp.  Also the caster
+must have the same material components and focuses as
+Washu’s greater instant copy.
+
+Washu’s Elemental Portal.
+Conjuration
+
+Level: Sor/Wiz 6.
+Components: (V) (F) (XP)
+Casting time:  5 minutes
+Target: Spell focus.
+Duration: permanent.
+Saving throw: none.
+Spell resistance:  no.
+
+This spell open a 6 “ diameter permanent one-way
+portal from the elemental plain of your choice (though
+opening one from the elemental plain of earth is
+pointless). If the plain is  the Elemental plain of
+water, 100 gallons a minute of pure water flows out
+the portal. If the portal is from the plain of air,
+Enough fresh air flows out to exchange the air in a
+1000 cubic foot space in 1 minute. And if the portal
+is the plain of fire, a 10 foot gout of flame shoots
+out which is hot enough to melt soft metals like
+copper or gold.  Washu created this spell to supply
+her devices that need one of these elements.  The
+focus of this spell is a pure platinum valve that
+weighs at least 50 pounds. The spell is cast by
+speaking the vocal component and then throwing open
+the valve. The flow of the portal can be controlled or
+stopped with the valve.  For every day the valve stays
+open there is a 1% chance that a small elemental will
+be sucked thought the portal unless preventive
+measures are taken. The spell can be dispelled and is
+suppressed by an anti-magic field.   Experience point
+cost: 250.
+
+Washu’s instant construction.
+Transmutation
+
+Level: Sor/Wiz 7.
+Components: (S) (F) (M)
+Casting time:  2 hours
+Target: area.
+Duration: instantaneous.
+Saving throw: none.
+Spell resistance: no.
+
+This spell allows the caster to instantly construct
+any mechanical device. This spell is similar to
+Fabricate but the object that is constructed can be of
+any size and number of materials as long as the other
+prerequisites of the spell are met. However the caster
+must have the skill to build it or be holding the hand
+of a volunteer that has the skill.  The focus of this
+spell is an exact 1/20 (at least) working scale model
+of the device to be constructed that has been made by
+the castor or the volunteer. This model must be made
+with the same materials as the finished object.  When
+this model is constructed, the builder must make the
+same skill check as if he was making the real thing.
+If the check fails then the model has some defect. If
+this is not noticed then the finished construction
+will have the same defect.  The material component of
+this spell is all of the refined raw materials
+(Timber, sheets of glass, bars of metal, etc. if the
+technology is not available to refine the materials
+than the object can’t be constructed with this spell)
+required to make the object. This is transformed by
+the spell into the finished construction.
+
+Washu’s greater instant construction.
+Conjuration
+
+Level: Sor/Wiz 9.
+Components: (S) (F) (M, optional) (XP)
+Casting time:  1 hour.
+Target: area.
+Duration: instantaneous.
+Saving throw: none.
+Spell resistance: no.
+
+This spell is the culmination of all of Washu’s
+research into magic. It finally allows her to create
+High technology devices even though she dose not have
+the technology to build them conventionally (when she
+develops this spell she will have taken a great step
+in getting home). This spell is similar to the one
+above except where noted below. This spell also needs
+no raw materials and the spell focus is a complete set
+of blueprints (Either printed on paper on stored on
+electronic medium) for the object to be constructed.
+However the caster must have the skill to construct
+the object or hold hands with a volunteer that dose.
+The caster or the volunteer makes the skill check when
+she/he draws up the blueprints.  If the plans are
+flawed the finished device will be also. This spell
+costs the caster 5000 experience points for any device
+below 1000 lbs and 20 more experience points for every
+100 lbs the device is over this weight. (This won’t be
+much of an obstacle for Washu because she has hundreds
+of thousands of experience points as an expert that
+she can burn). If this spell is cast with a volunteer,
+the experience point cost is split evenly between
+them. If the caster of the spell has acquired the raw
+materials (which don’t need to be refined in this
+case) needed to make the object, then the cost in
+Experience points is cut in half.
+
+Equipment:  Washu has both a chemistry lab and a
+medical kit. For magic items and other equipment refer
+to DMG for a 3rd level wizard.  She also runs a new
+company called “Solutions Incorporated” (she lost
+everything in sigil during the faction war) in the
+city that she is in.  But otherwise this company is
+the same as “Progress Unlimited”. Her partners would
+depend on which world she is on (probably Gnomes or
+Dwarves) The revenue from this company is good. So she
+can afford the materials she needs for both her
+technical research and arcane studies.
+
+Notes on technology. One thing that I have noticed in
+writing up washu for D&D is that differences in
+technology are not addressed very well in the rules.
+So based on what I have heard from other people. I
+have decided to come up with some rules to address
+that.  I have decided to do that by giving the person
+dealing with technology a curcumstance   based on the
+Tech Level of the person attempting it as compared to
+the TL of the task that he is attempting. For this I
+will use the tech levels given in the Alternety .
+There are 9  tech levels here (0:stone age, 1: iron
+age, 2: middle age, 3: age of enlightenment, 4:
+industrial age, 5: information age, 6 fusion age, 7:
+gravity age, and 8: energy age.) washu is at TL 8 most
+D&D world are at 2 or 3.
+
+First of all, I will deal with The DC of craft and
+knowledge tasks in the same tech level. In the players
+handbook the DC of a complicated task is 20. But this
+is assuming that the person is crafting something that
+is familiar to him, Say a lock.  But I think that
+attempting to build something totally new (even if
+this is at the same tech level) should be much harder.
+ I think that the DC class of doing something totally
+new should be 45.  This makes it just doable by a 20
+level expert who is maxed out in the required craft
+(and assuming he has decent ability modifiers and gets
+some circumstance bonuses (from working in a lab with
+several colleagues.))   Then as the technology becomes
+more common the DC would drop progressively. (40 for a
+rare object, 30 for uncommon, and 20 for common.)
+
+Now to address tasks that  are above or below the
+general TL of the world that they are attempted on (or
+in Washu's case, has access too).  First of all while
+a device that is below the tech level of the society
+can be done, The fact that the technology is out dated
+would make the task more difficult. I am thinking that
+for each TL below the General TC the person attempting
+it should get a circumstance penalty of -1. So washu
+would always have a penalty for  attempting a task
+that is below her TL (which would 8) as compared to 2
+or 3 for the average D&D World.
+
+I think that attempting a task that is above you tech
+level (or in Washu's case the tech level of the
+equipment that you have access too in the D&D
+world).should be harder than doing something below
+your TL.  Maybe a better approach would be to give a
+person a –10 circumstance penalty for every TL that
+the object of the task is above 1 tech level over your
+tech level. Where Washu is different from the other
+people in the world that she is trapped on is that she
+would only get a circumstance penalty for trying to
+built something more that 1 tech level above the
+technology she has access to. Somebody that is native
+to the same world would be penalized for trying to do
+ANY task that is more that 1 TL higher that his level.
+ I don't think there should be a penalty for just
+going up one tech level because the people that would
+be trying to create a new object of a higher tl would
+be at the cutting edge of available technology.
+
+Notes: Since Washu is so formidable; she should
+probably be used as a NPC only. Even then, her unique
+knowledge and skills would make her a disruptive force
+wherever she is.  This is intentional.  A whole
+campaign could probably be based around her. I leave
+it up to you to fit her into your campaign world. Just
+remember that Washu is one of the most intelligent and
+creative beings in the universe. Play her as such.  I
+suggest that anybody that uses her watch the Tenchi
+OAV’s. This will give you a good Idea of her
+personality and what she is capable of. The Tenchi
+mangas are also a good reference.
+
+History (I have kept this vague on purpose because the
+DM will have to incorporate Washu into the landscape
+of their campaign world.)
+
+ This starts out the same as my write-up of washu for
+Ad&d second edition (which is on The Many Faces Of
+Washu web site at
+http://www.fortunecity.com/victorian/kingston/196/ ),
+but two years later.  Washu has found her way out of
+sigil in the chaos following the Faction war.  She is
+now on one of the campaign worlds (DM’s choice).
+Before she left, Washu realized that the accident that
+brought her into the D&D Multiverse was an interaction
+between magic and technology. So now while she is
+still trying to build up her technology (she is about
+at the same technology level as last time since she
+had to start from scratch on the new world she is on.
+), she has also immersed herself in the study of magic
+and is very quickly picking it up.  Her High
+intelligence makes her a natural for wizardry.
+
+Washu has been away from her family and friends for 3
+years now.  On top of that she had all of her work in
+sigil destroyed during the faction war.  She is now
+trying to get home as quick as possible. She is hoping
+that her research in magic will enable her to find a
+way home without having to recreate all of her
+technology.  She has become active in the local scene
+of her new home and has tried to make new friends, but
+her intelligence and knowledge of strange and
+wonderful things makes it hard for her to fit in.  she
+really misses her family and friends and thinking
+about all the things she has missed at home is
+starting to really get to her.  A possible adventure
+hook would be that washu has heard of a powerful magic
+device that allows the user to shift between
+realities, and is financing a campaign to recover it.
+
+Previous history (from my second edition write-up of
+Washu)
+
+HISTORY:
+
+All this starts about 3 years after the last OAV.
+Tenchi is about ready to start
+college in Tokyo (nothing to do with shin Tenchi) and
+is getting ready to move.
+Naturally this distresses all the women in his life
+except Ryoko (who can teleport
+there at will). So Ayeka approaches Washu and asks her
+to build a portal between the Masaki house and
+Tenchi's new apartment. Washu agrees (after all she
+would get instant access to her favorite experimental
+subject) and builds it. [Cut to the PlaneScape
+universe] at the same time that Washu is activating
+her portal, two mages in Sigil are trying to change
+the destination of one of the many Portals in the
+city. (Note; in Sigil the portals are maintained by
+the lady of pain, she takes a dim view of anybody
+messing with them hence what will happen next) They
+are casting their spells at the same time Washu is
+powering up here own portal. About this time the Lady
+of Pain appears and interrupts the mages. The spells
+are miscast: this causes a freak interaction of magic
+and technology that reaches into the Tenchiverse and
+pulls Washu though her own portal into Sigil. She
+arrives just in time to watch the lady flay alive the
+two would be portal-jackers. After observing this
+bloody scene, Washu decides to flee the area but it is
+too late. The lady believes (actually correctly) that
+she has something to do with the disturbance of the
+portal and attacks her. Washu is able to hold her off
+for a little bit but the lady is too powerful, and
+smashes though her shield. Then in desperation Washu
+attacks the lady with her energy bolt but this has no
+effect. The last thing that she remembers before
+losing consciousness mercifully takes her is the image
+of her on hands and knees trying to keep her internal
+organs off the ground.
+
+The next thing that Washu realizes, she wakes up in
+small room with just a bed and chair. She is still
+gravely injured but she heals fast. Turns out she is
+in the Bleak cabal's Insane asylum. When she asks how
+she got there, they tell here that they just found her
+gravely injured in the city. Washu quickly determines
+that this is a lie (no two people can agree where she
+was found) but decides to stay in the relative safety
+of the asylum until she learns more about the strange
+place that she is in. Once she has recovered enough
+she tries to call up her laptop computer and bring
+some equipment in from subspace but finds out that in
+this place she is cut off from her lab and her
+technology. This is when she realizes that she is
+alone in a world that is really low tech. If she is to
+find a way back home, she will need to rebuild her
+technology from scratch.
+
+The present time is a year after Washu arrived in
+sigil. She has set up a company in the lady's ward
+called Progress Unlimited. Her business partners are a
+group of Tinker Gnomes that came from Krynn (Other
+wise known as the world of "DragonLance".) They were
+expelled from Mt. Nevermind because they made
+inventions that worked too often (you can't tinker
+with an invention that works the first time.) and
+later immigrated into the multiverse. Progress
+unlimited provides high tech (relatively) solutions
+for parties in sigil that have the need and the money.
+ Washu is very careful to only provide assistance that
+will not be used to victimize innocent people. For
+example, her current projects include using a punch
+card machine to solve statistical problem and process
+tax records for the Guvers and building steam engines
+for various factories in the city. She is also trying
+to electrify parts of the city. She also teaches
+people how to use her inventions. It is her sincere
+hope that while she is here, she can help improve the
+living conditions in sigil.
+
+She is doing this to finance her research in finding a
+way home. She is trying
+to build her technological base up to make a portal
+like the one she had in her world. But she has a long
+ways to go (she predicts 15 years) before she has the
+technology to build it. She also has the problem in
+that as she gets closer to her goal, she will attract
+more and more attention. She is currently looking to
+hire people to find the elements (tungsten for light
+bulbs and vacuum tubes; silicon for transistors and
+Integrated circuits: and uranium or plutonium for
+power) so she can jump to the next technological
+level. She also needs somebody to show her around the
+city and put her in contact with knowledgeable people.
+
+
+Right now Washu is living in the warehouse that is
+occupied by Progress Unlimited. However she has made a
+point of exploring the city that she is trapped in and
+is often seen on the streets.  She dresses about the
+same way she did at home, but she has made a few
+changes to her outfit to fit in more with the general
+population. She still maintains her cheerful
+disposition and her sense of humor but the pain of
+separation from her friends and family at home and the
+poverty and desperation of some parts of the city are
+starting to get to her.
+
+THE DARK: (This information is for the DM ONLY!)
+
+The lady of pain did not kill Washu because she sensed
+the Divine power buried deep inside her. If she did
+kill her, this power would be released with unknown
+consequences for sigil (the Lady is in constant battle
+to keep the Divine powers out of sigil, the last thing
+that see needs is to release one in the city). Washu's
+power is different from the might of the powers in the
+multiverse and the resident gods would love to get
+their hands on it. For this reason the lady has closed
+all portals to Washu. The best solution to this
+problem would be for Washu to find a way home. As a
+matter of fact the lady tried to open a portal back to
+Washu's world while she was Recovering at the Asylum
+but she couldn't. So she'll just has to wait to see if
+Washu can do it herself.
+
+After she discovered Washu's secret, she had her
+servants "The Dabus" take Washu to the Bleak Cabal.
+They left her in their care with explicit instructions
+not to tell anybody how she got there. Now she keeps
+an eye on Washu from a distance but will only
+intervene in order to keep here from dying.
+
+The encounter with the Lady disturbed Washu more than
+she will admit to her self and while she is not
+terrified of her, she has done her best to avoid
+another encounter. She has not even done any research
+on her even thought she thinks that the Lady is the
+key to sigil and therefore a possible way to get home.
+However as she gets more desperate to get home she
+might throw caution to the wind.

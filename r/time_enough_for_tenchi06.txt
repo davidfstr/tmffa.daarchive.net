@@ -1,0 +1,478 @@
+Time Enough for Tenchi, part 6: Time Enough for 
+ Breaking and Entering
+by Eaerth
+
+"Wake up, sleepyhead."
+
+"Ohhh, go away," I said.  Someone switched a light on.
+
+"Hey, it's breakfast time.  Somewhere outside the sun is
+up!"
+
+"Get the hell out, Mihoshi," I groaned.
+
+"Come onnnnn," Mihoshi said, tugging on my arm, "you can't
+sleep all day!"
+
+"Fuck you," I said, yanking my arm away, "you sleep more
+than everyone."  I pulled the sleeping bag over my head.
+
+"Ok, I'll go.  But you're the last one sleeping, and I
+thought you'd want to see Sasami before she leaves.  I'm
+sorry."
+
+With a rattle of a chain, the light went out.
+
+"You're not nice anymore," I heard her say as she walked
+away.
+
+I lay in the darkness but I couldn't get back to sleep. 
+"Dammit, dammit, dammit," I said as I stumbled to my feet
+and out of the small storeroom.
+
+There was a large crowd in the main bay.  It sounded like
+introductions were being made.  "...is Evan Chen, who will
+be doing communications.  And this is Shinobu Tachibana, who
+is always right."
+
+"I make sure no one forgets that."
+
+"Oh, Tenchi, you're up," Mihoshi said when I joined the
+crowd.  She smiled brightly.
+
+I flinched.  "I couldn't sleep, that's all."
+
+"Morning, Tenchi," Sasami said.  Though she was only a
+slight blue-haired girl, she seemed no child when she looked
+at me, hard and cold.
+
+"Yeah, I suppose it is."  I tended to hurt all over in the
+morning.  I glanced up at a tiny glint of red out of the
+corner of my eye.  "I--"
+
+Before I could finish, Sasami tackled me, pulling me down by
+the legs.  "Sniper, get down!" she yelled.  I heard the
+crackle of an energy weapon before I hit the ground. 
+Someone cried out.  Everyone started shouting.  Rosman
+yelled, "Someone get that guy!"
+
+That was the first fifteen seconds.  I hit the ground and
+lay stunned.
+
+"Tenchi, are you all right?" Sasami asked when everything
+quieted down a bit.
+
+"Um, yeah I think.  I don't think I was shot."
+
+"Then can you *get off me?*"
+
+"Um, yeah, sorry."  I untangled myself from the child and
+got up.  I heard gunfire from the rafters.
+
+"Evan's dead," one of the Juraians said.  He looked up at
+me.  "He was standing right behind you."
+
+"That's silly.  Who would want to kill Tenchi?" Mihoshi
+asked.
+
+"I wonder," Sasami said.
+
+The gunfire ceased.  "We got him!" someone called.
+
+"Blast it," Rosman said as he looked over the fallen body. 
+"With Mr. Chen dead, and Mr. Mercer bedridden with flu, we
+have no one who can operate the ansible.  We must postpone
+the Zaire mission."
+
+I looked at Evan's body.  "I can do it," I said.
+
+"What, Mr. Masaki?" Rosman asked.
+
+"I can do it.  Sony holds the patents on the ansible, I
+wrote much of the original firmware when it was developed, I
+can rig it to communicate with your people."
+
+"Thank you, Mr. Masaki," Rosman said, shaking my hand.  "You
+don't know how much this means to the Juraian people."
+
+An armed rebel approached.  "Dr. Rosman, sir," he said, "we
+killed the sniper.  Sir, it was Mahiro."
+
+"Mahiro?  I've known him for decades.  He wouldn't try to
+kill Mr. Masaki."
+
+"Aye, sir.  I can't explain it."
+
+					#
+
+The spaceship leapt swiftly away from Redmond but there was
+no sense of acceleration.  We stood in the cabin as if we
+were still on the ground, the 13 of us:  Sasami, Rosman, and
+I, and 10 soldiers. 
+
+"Just sit down somewhere," Sasami said.  "That way I can sit
+down on the other side of the ship."
+
+"Ok, ok, jeez," I said and found a chair.
+
+"Why does she hate you so much?" Shinobu asked me as she sat
+beside me.
+
+"I don't know," I said to the delicate-looking Juraian
+soldier.  "I suppose I just deserve it."
+
+Faster than any Earth aircraft and more undetectable than
+any stealth fighter, we crossed over into the night side of
+Earth to central Africa.
+
+"Ok, the installation is over the next ridge," Shinobu said
+when we landed.  "Let's move.  You three stay out of
+trouble.  I don't need to tell you this, Doctor, but you two
+remember, I am in charge.  I am always right.  You do what I
+say.  Got it?"
+
+"Yeah," I said.
+
+Sasami nodded.
+
+"Let's go then."
+
+We headed out into the wet darkness.
+
+The high energy communications tower was just one building
+in a complex of factories, office buildings, and
+experimental nanotechnology laboratories in the foothills. 
+Luckily, it was at the edge of the complex.  Cars whirred by
+on the eight lane highway alongside.
+
+"Do you think they know we're here?" I asked when we reached
+a rear door to the tower.
+
+"If they don't already, they will soon," Sasami said as she
+moved to the front of the group.  The girl took a prybar
+from a toolkit and pulled a panel from beside the door.
+
+She mumbled to herself as she fiddled with tools and a meter
+in the hole by the door.  "Almost got it," she said, several
+wires in her mouth.
+
+There was a flash of sparks and a click.  "There," Sasami
+said.
+
+Shinobu cautiously opened the door and looked in.  "Let's
+go," she said to us, "before the lady of the house wakes
+up."
+
+We got to the control room on the third floor without
+tripping any alarms, as far as I could tell.  It was a
+simple office with two terminals and a central control
+panel.  An unwatered plant was halfway to dying.  The
+company logo, "Monsanto," was plastered on the wall above
+them.  I sat down and got to work.
+
+There were several well-known exploits in these systems,
+unpatched for years, so it was easy to get access.  When I
+was younger, I offered to fix security holes but was
+ignored.  Later, I gave up.
+
+Getting in was easy, but after that...
+
+"Hurry up, old man, we don't have all night," Sasami said.
+
+"This isn't simple stuff, you know," I said as I entered
+Jurai's coordinates.
+
+"Just get going, moron, we'll be caught any mo--"
+
+At that point, a alarm bell began ringing in the distance.
+
+"Here they come, folks," Shinobu said.  The soldiers set up
+with energy rifles in doorways down the hall.  "We'll hold
+them off while we can, but you better hurry," she said
+before leaving the room.
+
+"We'll all be killed because of you," Sasami said when the
+shooting started outside.
+
+"Lay off," I growled, and typed the start code. "Ishihara,
+you there?" I said into the test mike.
+
+"Who is this?" a scratchy voice responded.
+
+"I've got your boss here.  Doctor, you're on."
+
+Rosman took my place at the computer.
+
+"Finally," Sasami said.
+
+"Why don't you back the fuck off?  I'm sick of it."
+
+"You're such a wimp, Tenchi."
+
+"Shit," I said and turned away.
+
+"Always were."
+
+"I'm done.  Let's get out of here," Dr. Rosman said as he
+ran by us, leaving us alone in the control room.
+
+"Well are you going to just stand there, Tenchi, or are
+coming with us?"
+
+"Come on, you two," Shinobu said through the doorway. 
+"We're leaving *now.*"
+
+So Sasami and I followed them out.  Bullets bounced off the
+walls around us.  The Juraians responded with energy pulses. 
+Shinobu hurled a grenade down the hall, which cleared out
+the security guards.  Then we ran.
+
+Sasami and I tried to catch up but Sasami's short stride
+held her back, and I was already out of breath.  Dr. Rosman,
+old enough to be a grandfather, was nowhere to be seen.  As
+we approached the next turn, an automatic door slid closed. 
+I sprinted forward.  With a quiet thud the door closed and
+locked.
+
+I had made it through.
+
+But Sasami hadn't.
+
+"Fuck," I said, spinning to face the door.  "Sasami's
+trapped."
+
+Shinobu shouted to her men.  "You go, we'll catch up!"  She
+faced the door and hefted her rifle.  "Ten minutes to burn
+through, maybe she can open it faster."
+
+"Is there another way out?"
+
+"Not on this floor.  They'll all be locked down."
+
+"Get out of here," I said.
+
+"What?  I can't do that."
+
+"*Go.*  This is my job."  I faced the soldier.  "You have no
+identity on this planet.  Do you know what they'll do to you
+if you get captured?  If I get caught it won't be so bad. 
+Go with your people.  We'll see you on the outside."
+
+"Aye," she said.  "Good luck."  And she sprinted after the
+rest.
+
+"Sasami, I hope you can open this thing," I yelled through
+the door.
+
+"Put your hands where I can see them and turn around," a
+British voice said from behind me.
+
+I turned around slowly.  A Monsanto security guard was
+there, holding an automatic pistol on me.  I hacked out a
+few coughs as he radioed that he'd caught one of the
+intruders.  I doubled over with coughing.
+
+"Listen, you, keep your hands in the air," he said, moving
+closer.
+
+I pretended to trip, falling into the guard.  I grabbed his
+arm and, with an easy throw, pulled the guard over my hip
+and shoved him head-first into the wall.
+
+As he slid down, unconscious, I unclipped the security badge
+from his coat and slid it into the slot by the door.  The
+door slid open.
+
+"Come on, Sasami."  I picked up the fallen guard's pistol. 
+"We don't have much time."
+
+"Hey, stop right there!"
+
+I looked up.  A dozen security guards arrived, blocking the
+way out.
+
+I stepped through the door to Sasami's side and pushed the
+button to close it behind us.  Bullets pinged off the other
+side.
+
+"Run!" I said, running down the hall and dragging the girl
+by the hand behind me.  We turned a corner and I heard the
+door opening behind us.  We passed an elevator.
+
+"Stop here," I gasped, going back to the elevator.  I
+slipped the badge into the elevator's slot and punched the
+button to open the doors.
+
+I dragged Sasami inside and pushed the button for the top
+floor.  As the doors closed, I leaned against the wall,
+gasping for air.
+
+"Are you all right?" Sasami asked.
+
+I nodded.
+
+Before we reached the 23rd floor, I pressed the emergency
+stop button.  The elevator shuddered.
+
+"There should be a trap door on the ceiling," I said, giving
+Sasami a lift up.  She opened the escape hatch and climbed
+out the roof of the elevator.
+
+When she was outside, I pointed the pistol at the elevator's
+control panel, shielded my eyes, and held down the trigger. 
+When the controls were destroyed, I dropped the gun on the
+floor and tried to climb out the trap door.
+
+"Ow, give me a hand please."
+
+Sasami helped me climb out the rest of the way into the
+elevator shaft.  I climbed the ladder until I reached an
+access panel in the wall.
+
+"Hopefully, we'll find a way to the roof.  Do you have a
+flathead screwdriver?"
+
+Sasami handed me a screwdriver and I unscrewed the panel. 
+We climbed inside a cramped tube.  Ten yards in, we reached
+a small hatch to the roof, with an electronic lock.
+
+I tried the guard's badge.
+
+"Shit," I said.  "They disabled the card."
+
+Sasami shined a flashlight at the wall by me.
+
+"There's a panel there, get it off," she said as she removed
+a panel from the ceiling.
+
+I removed the panel.  Behind were several circuit boards,
+ribbon cables, and other wires.  Nothing I recognized.
+
+"Here's a meter," Sasami said.  "Find the left side of the
+board, next to two or three capacitors."
+
+"Nothing."
+
+"Try the next pin."  She fiddled with a device on her end.
+
+"Five volts."
+
+"Ok.  Next," she said.
+
+"I can't see.  Ok, thanks.  No, nothing."
+
+"You know, we wouldn't be in this trouble if you'd worked
+faster."
+
+"Just work on this," I sighed.
+
+"I want you to connect these two points."  She handed me a
+handful of short wires.
+
+There were sparks falling from her panel.
+
+"Not those two, you idiot!"
+
+"Sorry," I said.  "This is a real pain in the ass.  If only
+Washu-chan were here, this would have only taken seconds."
+
+"Washu's dead, Tenchi.  She died on Mars."
+
+Everything seemed to go dark, the light from Sasami's torch
+snuffed out.  "Oh God," I said into the darkness.  "How did
+it happen?"
+
+"It was almost 30 years ago.  Only a year after ... Washu
+left to teach at Sigma 957 University, for some reason she
+quit and went to Mars.  On Mars, something terrible
+happened.  Something killed her.  No one knows what, and no
+one will ever find out, because everyone is afraid to go
+there."
+
+I set down the tools and lay flat on the ground.
+
+"What are you doing, Tenchi?  I need your help if we're
+going to get out of here."
+
+"I don't care.  Washu's dead.  She was supposed to outlive
+me."
+
+"She died *28 years* ago.  You're a little late, as always. 
+You have to help me or we'll be dead too."
+
+Slowly I found the tools I had dropped.  I let her talk me
+through the rest of the operation, and the hatch opened to
+the night sky.
+
+We climbed onto the roof.  In the foothills outside the
+complex, the Juraian spacecraft was rising into the air. 
+Sasami ran to the edge of the roof and waved, and the ship
+turned and sped toward us.
+
+I stood next to her and looked down at the street and the
+neighboring buildings while we waited for the ship.
+
+There was a bang of metal behind us.  I turned.  Armed
+security guards were pouring onto the roof from an open door
+and when they saw us, they opened fire.
+
+Turning, I picked up Sasami and leapt off the building.
+
+The girl screamed as we arced toward the street 23 stories
+below.
+
+There was a stomach-turning lurch as the spaceship's tractor
+beam caught us and transported us aboard.
+
+"They're aboard," Shinobu said.  "Get us the hell out of
+here."
+
+Then I passed out.
+
+					#
+
+At Microsoft we were met by Mihoshi.  "Thank goodness you're
+back ok," she said.
+
+"Yes, somehow we all managed to survive," Sasami said.
+
+"Pfft," I said and wordlessly left the ship.
+
+"Tenchi,"' Sasami said behind me.  I stopped.
+
+"Tenchi, thank you," she said.  "You helped the resistance
+more than we deserve to ask."
+
+"Yeah," I said, and walked away.
+
+---------
+You'll notice that the parts are coming more slowly now.
+Welcome to the land of deeper depression.  I'm completely
+stuck in the middle of chapter 8, but if I can get through
+this, I might just make it through to the end of season 1.
+After that, who knows if it'll be renewed?  The ratings are
+worse than the XFL's.
+
+The names of Tenchi, Washu, Aeka, Sasami, Ryoko, Mihoshi,
+and Kiyone are copyrighted and probably trademarked by AIC
+& Pioneer LDC.  I don't claim any ownership over them.
+Beyond the names, this story has just about nothing to do
+with the series.  I hope you don't feel cheated.
+
+Completely unrelated stuff, such as my comic, "Kevorkian 
+Won't Return My Calls," can be found at my website.
+http://eaerth.isfuckingbrilliant.com/ is the redirect.
+
+The email address on this post has been spam harvested and
+at least one of the spammers has the Klez virus, so I'm
+getting that mailed to me too.  If you send anything there, 
+there's a good chance I won't even notice it when I check 
+email (once every couple months).
+
+If you have any comments or questions or anything, check the
+website.  I used to put my real email address here at the
+bottom, but the website redirector has lasted two years, 
+which is longer than any email service I've signed up with 
+has lasted.  Sorry for the extra step, but if you'd tried 
+to send a message to the old address at the bottom of this
+chapter and gotten a bounce, you'd understand why.

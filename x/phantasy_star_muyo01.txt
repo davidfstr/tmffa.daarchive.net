@@ -1,0 +1,516 @@
+Phantasy Star Muyo!
+  By Anthos the Battlemage
+
+DISCLAIMER: Tenchi Muyo! and all related names and characters are property
+of Pioneer. Phantasy Star Online and all related elements are property of
+Sega and Sonic Team. I do not own these properties, nor do I claim any right
+to them. I am not doing this for any sort of profit, merely for the sake of
+storytelling. I also do this to pay homage to the greatest romantic-comedy
+anime, the Tenchi Muyo! series, and the greatest RPG I've ever played
+(besides Chrono Trigger, which by the way is property of Squaresoft),
+Phantasy Star Online.  Enjoy!
+
+Character Profiles
+
+AUTHOR'S NOTE: The characters of Tenchi Muyo! need no introduction, of
+course. However, the PSO characters that guide Tenchi and the gang through
+the highways and by-ways of Pioneer 2 and the surface of Ragol are not
+characters that appear in the game (although a few will make appearances),
+they are of my own creation.
+
+Jade Falcon- Jade Falcon is a HUcast, a male android Hunter, and a skilled
+warrior. He can cut a wide swathe out of enemy hordes with his Soul Eater, a
+scythe weapon he won from the rogue HUcast Kireek. He also employs a pair of
+Vulcan Mechguns in long-range fighting. Though fearsome in battle, JF is a
+very happy-go-lucky individual, thanks to his experimental human emotion
+grid. He has a hearty (if twisted) sense of humor, even in the midst of
+fighting. Essentially, this guy is like Duo Maxwell of Gundam Wing in the
+body of a tall green robot with a blade protruding out of his forehead. He
+is the leader of the team known as the Bladehawks.
+
+Templar- Templar is a formidable HUmar, a male human Hunter, and is a member
+of the Bladehawks. His trademark weapon is a Chain Sword, and specializes in
+the Resta (healing), Reverser (revival) and Grants (light-type attack)
+techniques. Templar is very noble and chivalrous, and of a very serious
+nature. His by-the-books attitude sometimes has a tendency to rub his ally
+Jade Falcon the wrong way. Despite this, Templar is one of JF's staunchest
+allies. His armor is gray and red, his hair long and black and his face
+scarred.
+
+Elaine- HUnewearl Elaine is one of the best in her field. She uses S-Beat
+Blades, arm blades made for her by the genius Dr. Montague, in combat, and
+also specializes in Barta (ice) techniques. Elaine is a Bladehawk, and the
+object of Jade Falcon's affections. Even though she is a Newman and he is an
+android, the two are deeply in love, despite the jeerings of her friends,
+fellow HUnewearls Kroe and Anna. She is very kind-hearted and a valiant
+fighter in combat. She has long flame-red hair, green eyes, and wears a
+white outfit.
+
+Mr. Void- Some would say that FOnewm Mr. Void, the only Force on the
+Bladehawks team, is a stark-raving lunatic. He has been known to babble on
+about imaginary leprachauns and "demon chipmunks" that inhabit Pioneer 2,
+and burst into song about "Cookie, the Root of All Evil" in the midst of
+battle. Despite his eccentricities, Void is a good friend and a powerful
+ally to those who know him well (namely, Jade Falcon and the Bladehawks).
+His mastery of techniques is absolute, making him something of an "idiot
+savant." He knows every technique from Anti to Zonde, though not even he
+knows which one he's going to use next. In addition to his spellcasting
+prowess, Void wields one of the strangest weapons ever- Akiko's Frying Pan.
+That's right, folks- when not casting spells, he's bashing monsters over the
+head with a cast-iron skillet. Why, no one will ever know- not even Jade
+Falcon. Mr. Void has sandy-brown hair and wears a black-and-yellow outfit
+with a two-pronged jester's cap.
+
+Well, there are the PSO good guys of my story. Here are some of the other
+players that hail from the worldship Pioneer 2.
+
+Dr. Montague- A FOnewm and Pioneer 2's resident super-genius. PSO players
+will recognize him from the Hunter's Guild quest "Doc's Secret Plan." Dr.
+Montague is responsible for the creation of Elaine's S-Beat Blades and Jade
+Falcon's human emotion grid. He outfits the Bladehawks with special weapons
+and armors of his own design, and his other creation, the RAcaseal Elenor,
+often accompanies Jade Falcon on missions.
+
+Elenor- Elenor is a RAcaseal, a female android Ranger, and Dr. Montague's
+"masterwork." Like Jade Falcon, she is equipped with an advanced human
+emotion grid, giving her a very kind and compassionate demeanor. She is able
+to communicate with Mags, the sentient machines that serve their masters by
+healing them, making them invulnerable, and summoning creatures called
+Photon Blasts. PSO players will remember Elenor from the quests "Magnitude
+of Metal," "Secret Delivery," and "Doc's Secret Plan."
+
+Kroe & Anna- Kroe and Anna Waynes, from "Waterfall Tears" and "Black Paper,"
+are twin HUnewearls who have a penchant for getting into trouble. They are
+friends with Elaine, and disapprove of Elaine's romantic involvement with
+Jade Falcon.
+
+Kireek- This rogue HUcast, from "Battle Training," known also as the Black
+Hound, considers Jade Falcon to be his greatest rival. He has attacked Jade
+Falcon on several occasions, and every time Kireek has been defeated. The
+final time, Kireek was forced to relinquish his Soul Eater weapon to Jade
+Falcon, and Kireek has not forgiven him for this. Armed with a new scythe,
+the Soul Banish, Kireek has vowed to bathe his new weapon in Jade Falcon's
+mech-fluid.
+
+Well, folks, that about covers it. LET'S ROCK!
+
+Chapter 1: The Whole New World
+
+ Tenchi Masaki sighed as he took in the view of the peaceful and serene lake
+behind his house. At least, It WAS peaceful and serene- until the ditzy
+Galaxy Police officer Mihoshi Kuramitsu crashed her ship right in the middle
+of it. Jeez, that's the tenth time this week! Tenchi thought as Mihoshi swam
+to shore, her uniform soaked and her expression crestfallen. "Sorry,
+Tenchi," she apologized, "I wasn't watching where I was going!"
+ Tenchi forced a smile. "Uh, that's okay, Mihoshi," Tenchi said, trying to
+hide his annoyance, "It happens to the best of us."
+ Mihoshi's sky-blue eyes lit up. "Really? So you forgive me?"
+ "Yes, I forgive you, Mihoshi."
+ Mihoshi wrapped her arms around Tenchi in a bear hug that nearly crushed
+his rib cage. "Oh thank you, Tenchi, thank you!" Mihoshi exclaimed. "You
+don't know how much this means to me!"
+ Suddenly, the cyan-haired space pirate, Ryoko, teleported onto the
+lakeshore as Tenchi was locked in Mihoshi's embrace. "A-hem- Mihoshi, what
+are you doing?" she inquired, a hint of menace in her voice.
+ Mihoshi realized what she was doing, and let go of a dazed and sopping-wet
+Tenchi, who collapsed on the ground in a heap. "Sorry, Ryoko," Mihoshi
+began. "It's just that I crashed in the lake again, and I said I was sorry,
+and..."
+ Ryoko sighed. "That's okay, Mihoshi." Ryoko floated over to Tenchi, who was
+still on the ground in a daze. When Tenchi was once again aware of what was
+going on, he found Ryoko lying on top of him.
+ "Hey, lover," Ryoko cooed seductively. Tenchi cried out in surprise, but
+could do nothing- his arms were pinned to his sides. Ryoko began to lean in
+closer, to kiss him, and then...
+ "RYOKO! LEAVE LORD TENCHI ALONE!!" Princess Ayeka Jurai, crown princess of
+planet Jurai and Ryoko's rival for Tenchi's affections, stormed up to the
+lakeshore in an absolute fury. "What do you think you are doing,
+you...you...DEMON!"
+ "More than you're ever gonna do, Princess!" Ryoko smirked as she floated
+off of Tenchi to confront Ayeka. "There's nothing you can do about it!"
+ "Watch me!" Ayeka shot back.
+ Mihoshi looked on with growing concern. "Please stop fighting!" she wailed,
+tears streaming out of her eyes (as only Mihoshi can do). "I don't like it
+when people fight!"
+ Suddenly, a circle of light appeared on the ground in front of Mihoshi. She
+stopped crying to admire this...whatever it was. "Ooh, pretty!" she said in
+awe as she stepped toward the circle. She placed her foot in the center of
+it... and disappeared.
+ Tenchi was the first to notice. "Mihoshi? MIHOSHI!" he screamed as he
+jumped into the circle. A flash of light, and he was gone.
+ Ryoko and Ayeka paused in their fighting long enough to notice that Tenchi
+was missing. They saw the circle of light, and put two and two together.
+"Lord Tenchi, I'm coming for you!" Ayeka yelled as she disappeared in a
+brilliant flash.
+ "Not without me, you're not!" Ryoko exclaimed as she followed suit.
+ The four of them had no idea what they were in for.
+
+Chapter 2: Mother Earth of Dishonesty
+
+ When Tenchi came to, he found himself in the middle of a lush forest,
+surrounded by Ryoko, Ayeka and Mihoshi. He had no clue where that portal- or
+whatever it was- had transported them. If Washu were here, he thought, she'd
+know what was going on!
+ Shortly, the girls all came to their senses. "Where are we? What did you
+do, Mihoshi?" Ryoko exclaimed. "How did this happen?"
+ "I don't know!" Mihoshi replied frantically. "I just stepped into that
+pretty light circle, and the next thing I know we're in this pretty woods!"
+ "I'm no scientist, but I think that 'light circle' was some kind of
+portal," Ayeka said thoughtfully. "The question is, where did it take us?"
+ Mihoshi was as bewildered as ever. "How should I- Aww, how cute!" A small
+yellow bird-like creature that was walking toward Mihoshi had distracted
+her. It looked like an overgrown chick with long antennae protruding from
+its head.
+ "What is it?" Ryoko asked.
+ "I don't know, but it's so ADORABLE!" Mihoshi exclaimed as she reached out
+to pet the strange little birdie.
+ The bird responded by fiercely pecking at Mihoshi's hand. Mihoshi withdrew
+her hand in shock as the bird began chirping angrily. "Was it something I
+said?" Mihoshi wondered in surprise.
+ Suddenly, more of the bird-things appeared, accompanied by fierce-looking
+bipedal monsters with brown fur. All looked as though they had chosen the
+humans they had surrounded as their next meal.
+ Tenchi panicked. "Run!" he cried, and all four ran for what looked like a
+gateway at the end of the clearing. It was much to their dismay when they
+found the gate locked.
+ "Great, what now?" Ryoko said as the monsters began closing in on their
+quarry.
+ Suddenly, a glowing scythe blade began to mow down the birds and beasts
+like a wheat field. Tenchi saw the scythe's wielder- a green-armored
+humanoid with a blade protruding from his forehead.
+ The monsters turned their attention to this brave warrior. The birds began
+squawking, and the furry beasts roared in anger. "Sorry, gentlemen," the
+green metal man said in a sarcastic tone, "Lunch is cancelled!"
+ Once again, the man began swinging his scythe. With the grace and agility
+of a jungle panther, he dispatched the monsters in short order, and then
+turned his attention to Tenchi, Ryoko, Ayeka and Mihoshi. "You four- how did
+you get down here? You know perfectly well civilians aren't allowed off of
+Pioneer 2!" he demanded.
+ "Uh, what's Pioneer 2?" Mihoshi inquired. "All I know is that we stepped
+into that portal thing, and-"
+ "'Portal thing?'" the humanoid interrupted, echoing Mihoshi. "Oh boy, looks
+like you found Dr. M's Interdimensional Telepipe. I'm guessing it was
+somehow activated and you four fell through it."
+ "Uh, I guess," Tenchi replied. "What is going on? Who are you?"
+ The man had no visible mouth and only one glowing yellow eye; otherwise he
+would have smiled. "The name's Jade Falcon," he replied. "I'm a Hunter of
+the worldship Pioneer 2. Dr. Montague sent me here to retrieve his
+experimental Telepipe that his android Elenor dropped here. But instead of
+it, I find you four. What are your names?"
+ Tenchi, Ryoko, Ayeka and Mihoshi introduced themselves, and explained their
+situation. When Mihoshi told Jade Falcon about the bird, he hung his head in
+disbelief. "For the love of- you tried to pet a Rag Rappy?" he moaned. "Do
+you have rocks in your head or something?"
+ "You have no idea," Ryoko muttered under her breath.
+ "I couldn't help it! It was so cute!" Mihoshi explained in desperation.
+ "It may be cute, but that doesn't mean it's not dangerous," Jade Falcon
+explained. "Rag Rappies are supposedly very friendly, but something has made
+them aggressive. In fact, it's made ALL the native animals of Ragol
+aggressive."
+ "Ragol- that's the name of this planet, correct?" Ayeka asked.
+ Jade Falcon nodded. "We came here on Pioneer 2 to live in the colony that
+Pioneer 1 had established. But just as we arrived, a huge explosion rocked
+the planet, and all communication with Pioneer 1 was lost. Every hunter on
+Pioneer 2, including myself, has been sent down to investigate. Right now
+I'm on a quest from the Hunter's Guild to retrieve Dr. M's Telepipe. So much
+for that, though."
+ "If you were sent to investigate the explosion," Ayeka began, "then why are
+you looking for some mad scientist's little toy?"
+ "First off, Dr. Montague is the greatest scientist on Pioneer 2!" Jade
+Falcon retorted. "And secondly, I needed the Meseta. Money," he added when
+he noticed the bewildered look on Ayeka's face.
+ "Sorry about not finding your Telepipe," Tenchi said.
+ "Actually, it's not a total loss- at least we know it works!" Jade Falcon
+replied. He shouldered his scythe. "Well, I'd better find Elenor. You're
+welcome to tag along."
+ Jade Falcon walked through the now-open gateway. "Hey! That was locked
+before!" Ryoko exclaimed.
+ "Oh, that," Jade Falcon said nonchalantly. "Some gates will only open when
+all the monsters in the area have been defeated. Don't ask me why."
+ As they walked through the forest, Tenchi couldn't shake the feeling that
+Jade Falcon was- there was no other way to put it- not human. "Uh, Jade
+Falcon?" he began hesitantly, "Are you, uh, you know..."
+  "Human? No, I'm an android," Jade Falcon finished. "A HUcast, to be more
+precise." Again, if he had a mouth, he would have smiled. "Besides, your
+green-haired lady-friend seems to be more than human, too," he added, as he
+and Tenchi watched as Ryoko hovered a foot or so off the ground.
+ "What?" Ryoko asked as she noticed Tenchi and Jade Falcon staring at her.
+Then she realized what she was doing. "Uh, well, um..."
+ "You don't have to explain," Jade Falcon interrupted, holding up a hand.
+"You're not from here, so I understand if you start exhibiting strange new
+powers. Besides, my Bladehawks can all use techniques, so you'd fit right
+in."
+ "Bladehawks?" Ryoko echoed.
+ "That's the Hunter team I belong to. Well, I'm the leader, actually," Jade
+Falcon explained. "I used to go it alone, but that's before I met Elaine."
+With that, he let out a voice oscillation that sounded like a sigh. "She's a
+HUnewearl, you'll meet her later. She convinced me not to be a lone wolf
+anymore, so we started the Bladehawks."
+ The group reached another clearing, and ran into a pink humanoid robot that
+was feminine in its design. In fact, she looked more like a human than Jade
+Falcon did. She was carrying a rifle.
+ "Jade Falcon! Did you find it?" the female android asked the green
+mechanoid.
+ "Well, yes and no," Jade Falcon replied. "These are Tenchi, Ryoko, Ayeka,
+and Mihoshi. They came through the Interdimensional Telepipe. Everyone, this
+is Elenor Camuel. She's the android I was telling you about earlier."
+ "Pleased to meet you all," Elenor greeted, curtseying. "So, you're from
+another dimension? Won't Dr. Montague be so excited!"
+ "Pleased to meet you too, Elenor," Tenchi said. He turned to Jade Falcon.
+"So, what happens now?"
+ "Well, I go see Dr. M, collect my Meseta, and get you guys some armor and
+weapons," Jade Falcon explained. "On this world, you're gonna need all the
+protection you can get."
+ It took some convincing on Jade Falcon's part, but he finally got Tenchi
+and the gang into the transporter at the end of the clearing. One moment,
+they were in a forest on the planet Ragol, the next they found themselves in
+a futuristic city. As Tenchi, Ryoko, Ayeka and Mihoshi stood awestruck, Jade
+Falcon appeared in the transporter behind them. "Welcome," he said, "to
+Pioneer 2."
+ Jade Falcon led Tenchi and crew to a door marked "Hunter's Guild." Besides
+the girl behind the counter, the only other people in the Guild were Elenor
+and a diminutive man with long, pointed ears, goggles and the loudest purple
+outfit one could ever imagine. "Well, Jade Falcon, I see you've returned-
+and with guests!" the man called out.
+ "Sho'nuf, Doc, " Jade Falcon replied. "I assume Elenor has filled you in on
+the details?"
+ "Of course." The strange little man walked up to Tenchi and his female
+friends. "Allow me to introduce myself. I'm Dr. Jean Farlo Montague. You
+must be the ones who fell through my Telepipe."
+ Tenchi nodded. "Yes. Dr. Montague, is this...a spaceship?"
+ Montague chuckled. "Not just any ship, my boy. This ship carries on it the
+population of an entire planet. Ragol was to be our new home- until the
+explosion occurred. We've been trying to figure out what's going on."
+ Jade Falcon, who had been talking with the girl on the counter, turned to
+the group. "You four stay here," he instructed. "I'm going to get the
+Bladehawks, and some new duds for you guys to wear.
+
+ It was some time before Jade Falcon came back. And he didn't come back
+alone- he was accompanied by three other people. One was a man with
+gray-and-red armor, black hair and a scarred, solemn face. Another was a
+beautiful red-haired woman with a white outfit and long, pointed ears. The
+last was a skinny elven man-child with blonde hair and a garish outfit
+similar to Dr. Montague's, but was black and yellow and had a two-pronged
+hat similar to a jester's cap.
+ "Sorry to keep you waiting," Jade Falcon apologized to Tenchi and the gang,
+"I had a tough time finding suitable outfits for you guys. Anyway, these are
+the Bladehawks." With that, Jade Falcon indicated the three behind him.
+ "I am Templar," the weather-beaten man in gray introduced. "As long as you
+four don't become a burden, we'll get along just fine."
+ "I'm Elaine," the elven woman said politely. "I hope you'll stay with us at
+least a little while."
+ "Beware the evil demon chipmunks!" the oddball elf exclaimed all of a
+sudden. He had a half-crazed look in his eyes. "Even now they do battle with
+the leprachauns!"
+ Templar sighed in frustration. "And that," he said, "is Mr. Void. He's
+crazy, but we keep him around because he's a phenomenal Force- that, and
+Jade Falcon and Elaine won't let me kill him."
+ "Templar! Don't even say that!" Jade Falcon exclaimed. "Anyhoo, here are
+your new threads." With that, he handed Tenchi, Ryoko, Ayeka and Mihoshi
+each a small green cube.
+ "What do we do with these?" Ryoko asked in total bewilderment.
+ Jade Falcon pressed a button on the side of Tenchi's cube. Suddenly, the
+cube disappeared and Tenchi found himself in a suit of orange armor similar
+to Templar's.
+ "A little sumthin' Dr. M cooked up a while back," Jade Falcon explained.
+"They're called Disguise Modules. Now you look like a HUmar."
+ "A HUmar?"
+ "A male human Hunter, like me," Templar explained.
+ Ryoko pressed the button on her cube, and her clothes transformed into a
+black-and-red halter-top and black shorts that showed a lot of leg.
+ "No one could tell you from another HUnewearl now," Jade Falcon smiled (or
+would have, if he had a mouth).
+ "In case you're wondering, a HUnewearl is a female Newman Hunter," Elaine
+explained. "Like me."
+ "And you're like no other, babe," Jade Falcon said slyly as he put his arm
+around Elaine's waist. Elaine responded by drawing closer and planting her
+lips firmly where Jade Falcon's lips would have been if he had them.
+ Tenchi looked on in bewilderment. "Are you two...you know...uh..."
+ Elaine smiled and nodded. Ryoko frowned. If an elf can fall in love with a
+robot, she thought, then why can't I be with Tenchi?
+ Meanwhile, Ayeka's Disguise Module had given her a yellow-and-purple dress
+and a matching cylindrical hat. "What am I now, Sir Falcon?" she asked in
+her usual prim and proper manner.
+ "You're a female human Force," Jade Falcon responded. "A FOmarl, for
+short."
+ After some difficulty, Mihoshi activated her disguise. She now appeared to
+be a pink robotic version of herself. In fact, she looked almost like
+Elenor, but with a ponytail.
+ "Cool! I'm a robot!" Mihoshi squealed in delight.
+ "A RAcaseal, actually," Dr. Montague corrected. "Very similar in design to
+my Elenor. Well, now all you need is weapons and armor."
+ Tenchi's eyes lit up. "Oh! That reminds me- I think I had Tenchi-Ken with
+me when we left!" Suddenly, the Jurai Master Key, the sword Tenchi-Ken,
+appeared in Tenchi's hand. "Woah, how did that happen?" Tenchi wondered.
+ "Your suit equipped it for you," Jade Falcon explained. "You said the name,
+and it equipped itself. Watch- Soul Eater!" With those words, the scythe
+that Jade Falcon used when he first met Tenchi and crew appeared in his
+hand.
+ "Well, I suggest we quit stalling and head for Forest 2," Templar said
+finally. "As long as you four can hold your own in combat, you're welcome to
+come along."
+ "Don't worry, we've seen our fair share of fighting," Tenchi sighed as he
+shot a glance at Ryoko and Ayeka.
+ "Then let's move it on out of hyah!" Jade Falcon called out, and the
+Bladehawks and Team Tenchi headed for the transporter to the surface of
+Ragol.
+
+ Chapter 3: Growl, from the Depths of the Earth
+
+ The area that Tenchi, Jade Falcon and crew saw as they stepped out of the
+transporter was different from the forest where the android from Pioneer 2
+had met the boy from Earth and his friends. It was raining and a massive
+dome-shaped building could be seen in the distance.
+ "Okay, folks, we're headed for the Central Dome," Jade Falcon said,
+pointing to the building in the distance. "This place'll be crawling with
+monsters, so stay on your toes."
+ "You mean like those Rag Rappies and those furry brown things?" Mihoshi
+inquired, fiddling with a small pistol Elenor had given her.
+ "Those  'furry brown things' are called Boomas," Templar said as he readied
+a massive broadsword with a glowing chainsaw-like blade.
+ As the group made its way from the transporter, several four-legged
+creatures jumped out from the bushes, circling the group and snarling
+menacingly.
+ Tenchi ignited Tenchi-Ken's blade. "These guys look like- wolves!" he
+exclaimed. They did in fact look like a cross between Earth wolves and some
+kind of blue-scaled reptile.
+ "They're Savage Wolves," Elaine explained as energy blades flared out of
+her arms.  She immediately leapt into action, slashing at the wolves with
+her arm blades. Templar struck two with his chainsaw-blade, and both wolves
+roared in rage and pain as they fell to the ground dead.
+ "Woo-hoo!" Ryoko called out in triumph. But her enthusiasm was short-lived
+as a massive gorilla-like creature leaped out of nowhere, catching her
+off-guard and tackling her.
+ Tenchi and Jade Falcon rushed to Ryoko's aid- all for naught. "GET OFF!"
+Ryoko screamed as she fired an energy blast at her huge assailant. The beast
+grunted, and fell down dead, now having a gaping hole in its torso.
+ "I don't believe it," Jade Falcon said in amazement. "She took out a
+Hildebear with one hit!"
+ Mr. Void clobbered the last Savage Wolf over the head with a cast-iron
+frying pan. "Lolly-Lolly-Loo!" he exclaimed as he quickly turned away from
+the beast. Noticing that Void's back was turned; the wolf leapt at the
+FOnewm-and was electrocuted as a circle of lightning bolts flew out from his
+body. "Wow, did I do that?" Void asked, a confused look on his face.
+ Ayeka was surprised as well. "How did you do that?"
+ "He's a Force," Jade Falcon explained. "Forces specialize in the use of
+spells called 'techniques'. Mr. Void here is the best in his field."
+ "Even though half the time he doesn't even know what he's doing," Templar
+added.
+ "I think we should get going, " Elaine said with a sense of urgency  "We
+need to get to the warp to the Central Dome."
+ Two clearings, ten Boomas, six Wolves, five Rappies and one Hildebear
+later, Tenchi, Jade Falcon and crew made it to another transporter. "This
+sucker'll take us to the Central Dome," said Jade Falcon. "I have a sneaking
+suspicion there'll be more beasties in that direction, and we took a little
+bit of damage back there."
+ Templar stepped forward. "Say no more, Falcon- I'll do the honors." The
+HUmar closed his eyes and stretched out his hands. A green aura spread out
+from Templar's body, washing himself and the others in its healing glow.
+ Tenchi inhaled deeply as the aura healed the wounds that the Boomas and
+Wolves had given him. "Templar, you can cast spells too?" he asked.
+ "I can," Templar replied. "In fact, all of us here but Jade Falcon can use
+techniques. I specialize in Resta- it's a healing technique."
+ "I can use the different ice techniques- Barta, Gibarta and Rabarta,"
+Elaine added.
+ "Like ol' Templar said- I can't use techniques. That's the downside to
+being an android," said Jade Falcon. "Anyhoo, now that everybody's running
+on all eight cylinders, let's head to the Central Dome." With that, he
+stepped into the transporter, and the others quickly followed suit.
+    Jade Falcon wasn't kidding when he said the Central Dome would have more
+opposition waiting for them. As soon as they stepped out of the transporter,
+Team Tenchi and the Bladehawks were attacked by a swarm of large
+mosquito-like insects. Tenchi had just figured out how to use the computer
+on the left arm of his suit, which told him these creatures were...
+ "Mothmants!" Tenchi exclaimed, slashing at the overgrown bugs with
+Tenchi-Ken. "Jeez, there're so many of them!"
+ "We have to take them out at the source," Templar growled as his sword cut
+a wide swathe out of the swarm. "There'll be a Monest somewhere around
+here."
+ "You mean that ugly purple thingy over there that these bugs are coming out
+of?"  Mihoshi asked, pointing to a massive purple sac hanging in midair from
+vines near a tree. Sure enough, Mothmants were spewing out if it.
+ Mihoshi took aim with her handgun, and fired- completely missing her
+intended target. But disappointment turned to joy as a rather large
+tree-branch crashed down and crushed the Monest, thus ending its blizzard of
+Mothmants.
+ "Mihoshi, I don't know how you do it," Ryoko said, hanging her head in
+disbelief.
+ "She's either a really good shot or just extremely lucky," Jade Falcon
+agreed. Somehow, he knew it was the latter.
+ The group made their way through a gate, and found yet another transporter.
+This one was much larger than the others had been.
+ "Well, I guess we all go into the transporter," Tenchi guessed. "Is
+everyone ready?"
+ "Hey- who put you in charge, greenhorn?" Jade Falcon said indignantly. "I'm
+the leader here. I'M the king! I'm..."
+ The android was cut short as Elaine wrapped her arms around him. "You're
+what, honey?" she said slyly, her green eyes staring into Jade Falcon's
+photoreceptor.
+ "Uh, every king needs his queen, my dear," Jade Falcon stammered. Elaine
+smiled, and kissed him.
+ Ryoko took this opportunity to put the moves on Tenchi, who was trying to
+ignore Jade Falcon and Elaine's display of affection. She moved closer to
+him, and put her arm around his waist. "So Tenchi," she began, "You never
+told me if you liked my new outfit or not!"
+ Tenchi recognized the seductive look in Ryoko's catlike gold eyes, and
+quickly decided to change the subject. "Uh, can we get out of here?"
+ "Onward to destiny- and bran muffins!" Mr. Void said triumphantly as he
+stepped onto the transporter platform. "C'mon, JF- speed it up!"
+ Jade Falcon loosed himself from Elaine's embrace, and tightened his grip on
+his Soul Eater scythe. "All right folks, pile in!" he exclaimed as he,
+Templar, Elaine, Tenchi and the others climbed onto the platform.
+ The transporter took them into the interior of the Central Dome.  The place
+was a shambles- it looked more like some massive creature's burrow now.
+"This place looks like something's using it as a nest," Tenchi remarked.
+ Suddenly, he heard a bestial roar, and soon learned whose nest it was. A
+massive greenish-brown dragon swooped down from the upper reaches of the
+Central Dome, dust flying as it flapped its gigantic leathery wings. It
+landed on the ground with such force; it knocked Tenchi and crew off
+balance. Fear overtook Tenchi even as he struggled to his feet.
+ Jade Falcon, however, looked ready to tackle this beast. "Alright, people,
+here's the game plan," he ordered. "This overgrown salamander's main weak
+point is his head. Tenchi and I will get it to lower its head, and the rest
+of you lay into it when it lowers."
+ Tenchi's eyes widened in terror. "And how do we do that?" he demanded
+frantically.
+ "Attack his feet," the android replied.
+ As Jade Falcon was going over his strategy, the dragon took advantage of
+this opportunity and launched a huge fireball from its mouth. Luckily, Ayeka
+noticed this, and called up her mini-guardians. Numerous small log-like
+objects surrounded her and the others, electrical energy dancing between
+them. The fireball splashed harmlessly against the force field the
+mini-guardians had generated. "Gentlemen, I suggest you stop talking about
+it and take action!" Ayeka said to Tenchi and JF. "That thing looks
+furious!"
+ With that, Jade Falcon raised his Soul Eater and charged forward. Tenchi
+steeled himself and followed suit, maintaining a white-knuckle grip on
+Tenchi-Ken.
+ The dragon howled in rage as Jade Falcon and Tenchi began slashing with
+their weapons. However, all it seemed to do was anger the beast. The dragon
+once again took to the sky, nipping Jade Falcon's original plan in the bud.
+ "Oh, CRAP!" the HUcast exclaimed. His Soul Eater disappeared, and small
+machine guns appeared in his hands. "Switch to long range tactics, people!"
+ Jade Falcon began circling the dragon, guns blazing. Elaine fired
+bluish-white energy blasts at the monster. Ryoko flew up into the air,
+ignited her beam-blade- and was sent reeling as the dragon let loose with a
+barrage of fireballs.
+ "RYOKO!" Tenchi yelled in horror. With an enraged battle cry on his lips,
+Tenchi threw Tenchi-Ken with full force at the dragon. The dragon screamed
+in anguish as the blade of the legendary Master Key of Jurai pierced its
+heart. It crashed to the ground, and breathed its last.
+ As the dragon twitched in its death throes, Tenchi ran to Ryoko, who lay
+unconscious at one side of the arena. "Ryoko, are you okay?" he asked as
+Ryoko slowly came to.
+ Ryoko opened her eyes, and smiled weakly. "I'm all right, Tenchi," she
+murmured. "Thanks for the save back there." With that, she passed out again.
+ "Let's head back to Pioneer 2," Jade Falcon ordered. "Tenchi, your friend
+Ryoko needs medical attention."
+ A transporter appeared out of nowhere, and Jade Falcon, Tenchi and crew
+stepped into it, returning them to Pioneer 2.
+
+Next Time on Phantasy Star Muyo!:
+Team Tenchi and the Bladehawks head into the Caves, and Mihoshi finds true
+love. Don't miss the next exciting installment of Phantasy Star Muyo!
+
+AUTHOR'S NOTE- Well folks, whattaya think? Send all C&C to
+me_grimlock41@hotmail.com. Excelsior!

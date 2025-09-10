@@ -1,0 +1,1033 @@
+/*
+ * Tenchi Muyo TV! Universe: The Zero Project.
+ * Written by Tenchiken and Ryan Anderson
+ * Tenchi Muyo is the creation of Hiroki Hayashi and Kajishima
+ * and is owned by Pioneer.
+ *
+ * This story occurs in the TV storyline, and has _nothing_ to do
+ * with my Other Tenchi Fanfiction "Heaven and Earth".
+ * The first part of this story occurs at the same time as some of the events
+ * of episode 26.
+ *
+ * In episode 25, it really seems that Ryouko has died. Then, in 26 she pops
+ * up like nothing has happened to her. Likewise, little is explained
+ * on the reasons the rest of them returned. Of the returnees, why Washu
+ * in particular returned. This story is an attempt to tell that tale.
+ *
+ * Many thanks to the pre-readers and Audrey. Obviouslly much thanks
+ * to Ryan who helped flesh out the story.
+ *
+ * THIS IS TV STORYLINE. RYOUKO IS NOT WASHU'S DAIGHTER. THERE ARE
+ * NO LIGHTHAWK WINGS. AEKA IS ONLY 17 YEARS OLD. Anyone who asks
+ * about these things will be torched.
+ *
+ * Thank you ahead of time for reading this fic.
+ * If you read this story, please send me C&C at tenchiken@narf.com.
+ */
+
+The entire universe, had stoped, the collective wind knocked out of
+it by a coup, and then a battle, and then the death of a emperor.
+[N/A]
+                        Feed level [LIVE]
+                        Location [JURAI PRIME]
+                        Anchor Status [CG-GEN]
+                        Subject Status [New Jurain Emperor to be Crowned]
+                        Importance [FLASH-EXTRA-FLASH]
+                        C80.S Jurai Standard Time
+<Holofeed downlink comencing in 5.4.3.2.1>
+
+A Jurain face appeared in the 3d Holo Projection, and began to deliver his report. In the
+
+background, a computer generated image of Jurai Prime with its two counter rotating defense
+planetoid appeared. Addressing the unseen audience he began:
+
+"A Jurain emperor has died at the hands of a Mortal. Not since Kain had any such event
+occurred, and not since the Rim Wars has such a watershed event occurred. Two months ago,
+The Lord Yousho appeared to us once more, and took his legacy, the thrown of the Jurain
+empire."
+
+In the subchannels, images of Yousho's coronation were displayed.
+
+"Yesterday, Lord Yousho was revealed to be a fake, by the grandson of the real Lord Yousho.
+
+This morning at Mark 20 Jurain Time, a battle occurred between this boy, Tenchi Masaki by
+Birth and the fake emperor who was revealed to be Kagato, a onetime contender for the
+thrown."
+
+In the subchannels, picture of a battle between the Kagato and Tenchi was displayed. Rather
+then the onsided battle that had occured, a computer generated battle was displayed, with
+sword ranging too and froo. finally, in a burst of energy, Tenchi leapt far into the sky,
+and brought his sword down on Kagato, who then dissolved in a splash of white against dark.
+
+"To add more to the story" The anchor continued, "The legendary Yousho fought and lost
+against this Kagato. The story of this boy is truly what legends are made of. For a special
+report, we now go to our correspondent in the Rimworld section 112, close to Terra, reputed
+homeworld of the soon to be crowned emperor."
+
+With this, the location switched to the GP station orbiting Beta Pictoris F, a new young
+volcanic planet.
+
+This reporter was clearly from the GP alliance, given away by her pointed ears, and cat like
+eyes.
+
+"Thank you. Already out here, a blockade has been formed around the terran system, home to
+Lord Yousho and his now famous grandson. Little details can be found of this world since it
+is now cut off from the rest of the universe, what we know is this. The world is a small
+world, the third in its system. The culture is primitive, but only one or two hundred marks
+from being a space age colony. It actually lies in GP mandated space, but that space has
+already been handed over to Jurai in preparation for the emperor's coronation. The GP has
+had a small station there for observation purposes only for several years, yet the fact that
+this station was manned by Detectives Kiyonne Makabi, and Mihoshi Kurmitsu indicate that the
+GP was aware of at least some of the more unusual occupants of the Planet, and responded by
+posting two of the upcoming detectives on the planet.
+
+More interesting perhaps is the fate of Washu, the famed scientist. Suffering banishment for
+the incident at Pegasi 51, where she spun a gas giant out of it's orbit and into the sun.
+She appears to have landed on earth. Her role with the new emperor is as yet, unknown.
+Whatever the role of Washu, it will only be a matter of time before Terra joins the Jurain
+Empire, perhaps as the capital world of the ring worlds.
+
+>From Beta Pictoris, this is Jurain Holofeed Anchor 321-c, signing off."
+After the commercials, the Anchor came back. This time with a computer generated backdrop of
+the palace, and the central throne room.
+
+"The new emperor had not yet been crowned, but he is in the capital right now convening a
+royal Court. Present at the court, and presumably the chief of his ministries is the Lord
+Yousho. Aeka Jurai, the crown princess of the Masati family is rumored also to be present at
+the royal court. In fact, she is rumored to be the lover of this new prince. The very
+prospect of an interfamily marriage has the royal experts pleased, as a marriage may cut off
+the possibility of family warfare and politicking."
+In the Holo subchannel, a picture of a cover of a novel appeared. The title "The Emperor, my
+Love."
+
+"In fact", the reporter continued, "The word is allready on the street that the publishing
+firm of Asahi limited will be realizing a fictional holo novel of this rumoured affair, the
+princess has made no comments about the rumours truth."
+
+The sub channel displayed a picture of Mihoshi and Kiyonne in dress uniforms.
+
+"Early reports of the rest of the court is just as interesting. GP detectives Kiyonne Makabi
+and Mihoshi Kurmitsu are rumoured to have the Emperors ear. At the very least, they have
+been posted at the GP embassy around Jurai Beta, well within the summon of the emperor.
+Politcal analysts are allready singing the praises for this move, hoping that it will help
+tie Jurai closer to the GP alliance."
+
+The sub channel now displayed the picture of Nagi.
+"Bounty hunter Nagi is rumored to control the young princes fleet. This fleet saw battle
+around Jurai Prime, and also the ancient capital at Calias."
+
+The sub channel shows a series of strikes between large battleships. One ship resembling a
+Jurain Battleship, the other the Souja. Behind them huge fleets attacked and counter
+attacked, always being out dueled by the fake computer generated fleet.
+"In a move of respect, Naga and her fleet have departed from the area, and the Jurain fleet
+has been moved in, to support the young prince."
+A Holo projection of Washu appeared, her fingers stretched in a "V."
+
+"Friend of the young prince, and rumored confident Professor Washu has been granted the
+assistant deanship of the Jurain Royal Space Academy. However, rumor has it from the academy
+that this position was granted to her in honor of her work in synthetic life forms, and not
+because of any pressure from the Jurain Royal Council, a body reeling to deal with the
+loss of Kagato a man whose reign they supported whole heartily."
+
+The subchannel now pictured Ryouko.
+"However, the most interesting, and possibly alarming member of the court was the space
+pirate Ryouko. Although she had never struck Jurai proper, her misdeeds were well enough
+known for her name to become a swear word among the more tortured outer planets."
+
+In the subchannel, lists of world that Ryouko hit, and the target were listed. Several of
+her more violent attacks were not listed.
+
+"Being no doubt aware of the political ramifications of her prescene, the future emperor
+seemed to have sent her away from Jurai. Her ship, Ryo-oh-ki was last seen departing the
+royal tree several days ago. No one had seen her since."
+"Turn it off" a voice interrupted.
+
+Washu in the midst of a huge device, a visor pulled over her eyes as both her hands fairly
+
+flew over the keys embedded in the arms of the chair. Massive numbers of cables and tubes
+seemed to sprout from both the helmet and the chair she was plugged into and never-slowing
+pulse of information.
+
+The student had seen it all before, however... "What are you doing,
+Sensei?"
+
+"You're familiar with the concept of the dive-chair, right?"
+The student merely smirked. "Of course, I had to build one as part of my senior thesis..."
+"Well... while physically this might look much like one, it bares little internal
+resemblence. Instead of merely diving into the datastream, I've specially modified this one
+to do far more... Now go over to the temporal-state-analyser console and enter a few
+co-ordinates for me."
+
+The student, one Daisuke Kuridan, took a moment to look quisically at the entombed teacher.
+Washu had such a reputation that as soon as he heard that she was going to be coming back to
+the university he'd pulled every string he could get his hands on to become her research
+assistant... pretty much all throughout his 500 years as a scientist, he'd followed her
+work, and been truly amazed at the genius of this legendary scientist... that chance to work
+for her seemed just to good to be true.. but the reality seemed much dimmer than the raw
+genius he had expected.. Since her return a few weeks ago, she'd done nothing but treat him
+like an undergrad, completely ignoring him whenever he tried to present one of his ideas to
+her, while she used him like slave labor for the most menial data-entry tasks... it was
+truly demeaning. And What works of brilliance had she shown him? a dive chair.. a hideously
+antiquated piece of history from nearly 5000 years ago before the technology for was shrunk
+to the size of a pin head and embedded in jackhead's skulls.
+"Well, what are you waiting for? just do it already!"
+
+Sighing, he grudgingly marched over to the console and began plugging in the the numbers
+Washu rattled off... A temporal state analyser? please... he had two of these half the size
+that did twice as much sitting in his apartment collecting dust right now! Greatest
+scientific mind in the Universe my ass....
+
+"Ha! that's it! Now throw the switch on the left!"
+
+Switch on the left? This model of temporal analyzer didn't have a.. hmm...
+
+As soon as the switch was thrown, the whole room began to shake... three strange pillars
+standing seemingly at random in the room suddenly burst to life with crackling electricity
+and began rotating in ever quickening circles... Now this, this was different. In surprise
+Daisuke could do nothing more than stand and gape...
+As the three pillars spun faster and faster, Washu's image in the middle slowly began to
+blur and stretch, almost as if space were bending around her... then, just as suddenly,
+everything stopped.
+
+In suprise, Daisuke looked around, and realized that they had dropped into subspace. The
+
+dive chair stood in the middle of a floating island.
+Above them was a unreal starry night, below them many more islands. Everything was green and
+lush. The deepest blue imaginable lit the sky, yet there was no sun, only a pair of moons in
+the distance.
+
+In the distance was a tree of unearthly proportions, which dwarfed everything else in the
+sky. From the top of one of it's branches, a waterfall formed, spraying moisture on
+everything below.
+
+Washu stepped out of her seat, and walked out and took in the view. Daisuke seemed to have
+
+finally snapped out of his suprise, and timidly asked "Washu sensei, where are we?"
+Washu shot him a quick grin. "You are only the second person to ever see this sight. Welcome
+to the Boundary."
+
+At this Daisuke who was not yet fully recovered from the first shock, lapsed into shock
+again.
+
+"But that's impossible, all Upper-Dimensional equations rely on the proof that it is
+impossible to reach Boundary Subspace."
+
+"Hai, that they do." Washu replied with a teasing voice.
+"But if we are really here." He stammered.
+"Hai, that we are." Washu continued smiling.
+"But then all the science classes...."
+"Were worthless" Washu responded, with a little "V" just to drive to point home.
+"How is this possible? He asked, completely confused and upset at this point.
+"Ahh.. Finally an intelligent question" Washu smiled, as she walked over to a small cottage
+that was concealed in the shubbary.
+
+Touching the door, she quietly walked in. Careful not to disturb any dust that had collected
+over the years. Pausing with each step, as if savoring the moment, she gently walked over to
+a cot on the side of the wall. Behind her, as if realizing that he was in a holy personal
+space, Daisuke stayed at the door, watching Washu-sensei's action.
+Quietly and gently, she lifted the cot, and revealed a little compartment below. Out of this
+compartment she took an elegantly crafted box. Beckoning her student over to her she opened
+to box slowly. Inside were three red gems. Daisuke stood, and just stared at the gems,
+noting the unearthly glow they cast about the room. Washu stared at them for a moment, and
+then took them out of the container.
+
+"What are they?"
+
+"Magic" Washu responded.
+
+"Magic?" Daisuke stammered at his teacher.
+
+"Anything that can not be described by science is Magic."
+
+"But everything can be described using science...."
+
+"Really?" Washu responded.
+
+Daisuke nodded, and took in these words of wisdom. Washu watched intently to see if Daisuke
+really understood what she had said, or weather or not the academy had drilled all though
+from his mind. "But perhaps there is something else" he Finally admitted.
+Washu smiled, and then slowly walked out into the unreal world that surrounded this place.
+Staring for a moment at the enormous tree, she started to walk back to the place that they
+had appeared from. Smiling at Daisuke, she spoke in a quiet voice.
+"How would you like to see the greatest experiment ever?" She asked, her voice full of
+intrigue and promise.
+
+*       *       *       *       *
+Two Weeks Later
+*       *       *       *       *
+
+<Holofeed downlink -    Encryption status [80D-%610S Key - Regent Request]
+                        Feed level [30 Minute Delay - Regent Request]
+                        Location [JURAI Council Chambers]
+                        Anchor Status [CG-GEN]
+                        Subject Status [Royal Status]
+                        Importance [ROYAL Priority]
+                        C80.S Jurai Standard Time [Two Earth Weeks Later]
+<Holofeed downlink comencing in 5.4.3.2.1>
+
+"Washu Chan?" Daisuke asked quietly, "What's up?"
+Washu said nothing, but was attentively watching the holoset, as the newscast began. Daisuke
+quickly focused on the channel.
+
+Projected in front of him was the Jurain Royal Council Chambers. It was a newsfeed, although
+he noted with some amusement that Washu had broken the "unbreakable" new Jurain Quantum
+Cipher to get the newsfeed 30 minutes earlier then the rest of the world. The senior
+mathematicians at the academy had proved that it was unbreakable, and yet here it was.
+A disembodied voice spoke from off of screen, while the hologram changed as the members of
+the council walked in, and took their seat.
+
+"Thank you Ayan" the reporter responded to her CG generated counterpart in some studio
+somewhere. "It truly is an amazing sight here in the council chambers. For the first time in
+perhaps a millenium, the majority of the council has been seated. The only seats not filled
+are those of the emperor and queen. If this session goes as planned, inside word is that
+both of those seats may be filled today."
+
+Daisuke looked in suprise. Washu was still studying the projection intensly
+but now had a slight sneer. Somehow Daisuke never figured Washu for one who
+would be interested in politics. Somehow, it seemed too mundane for her.
+"Indeed, much of the capital has been buzzing with rumours that new discovered crown prince,
+Tenchi, will be wed by the end of the day to the current crown princess Aeka Jurai Masaki.
+Such a move would stabilize the position of the increasingly weak Masaki family. It would
+also provide a solid rebuttal to the attempts of the Yuki family to take the next rotation
+of the crown via a marriage of Seriyou Yuki to Aeka Jurai Masaki, or possibly Sasami Jurai
+Masaki."
+
+Then, as if on cue, Seriyou entered the room flocked by courtiers and servants.
+Of Medium height, and skinny build, he sat down. His eyes were the cold purple that the
+Jurain blood was famous for. However, his most striking feature was his pink hair, at the
+sight of which, Washu began laughing like a deranged chipmunk.
+Daisuke looked at her suprised. Washu managed to stammer out before collapsing back in
+laughter that " He would never survive the wedding night." Not knowing a great deal about
+Jurai Wedding customs, he just smiled and noded.
+On the holoscreen, two men walked in, donned in traditional Jurai Knight garb. Instantly a
+hush fell over the crowd as the two men took seats that had so long been vacant.
+
+The reporter noticed the entrance, and continued:
+
+"Today's council meeting is also important because of the resurrection of the Jurain
+Knights. It has been 700 years since the Knights were last present at a council meeting.
+Since their revival, the Jurain Guard has been forced to give up two of its four seats to
+maintain tradition. The fact that the guards have never been able to absorb the Knights, and
+bring all of Jurai's defenses into one net has also been a source of frustration of the
+Guard."
+
+"The Guard is also not happy about the re-emergence of the Knights because the Jurain
+Emperor is usually the most powerful of the Jurain warriors. Therefore a disproportionate
+number of Knights have also been emperors through recorded history. Since the Knights were
+members of the Young Heir's entourage, it is unlikely that they will create a power schism,
+since the Young Heir's rule seems to be uncontested."
+
+On the viewscreen a hush fell over the crowd, as the Crown Princess, Aeka Jurai Masaki
+entered the room. A small shock rippled through the crowd as they observed her condition.
+Her eyes were covered in entirely too much makeup, without doubt convering the signs of a
+long cry.
+
+The rest of the council was quickly seated. As the regent ordered the council to session,
+The holovid camera's focused in on Aeka. Watching the screen carefully, Daisuke was shocked
+at her appearance. Washu gave the princess a quick look over, and then whispered in a sad
+tone, "Poor Girl, she tried to force his hand...."
+Daisuke looked at Washu in suprise, and then asked her "But why would the heir turn her
+down, it was a perfect political situation." With scorn in her eyes, Washu responded curtly:
+"Not everything is political, Tenchi is a romantic, he still believes in true love. He also
+believes in family. Tenchi didn't rescue Aeka because he was in love with her or to defeat
+Kagato, rather because she was a member of his family. Aeka knew that, but tried to force
+the issue anyways" Daisuke looked at Washu closely.
+"And your next qustion is?" Washu-sensei asked. Daisuke looked at Washu confused yet again.
+"Royalty are Human too" She prompted. Given the go ahead, Daisuke asked "Why would she try
+to force the issue?"
+Washu, as if anticipating the qustion replied, "Because the rival for Tenchi's heart is
+dead, Tenchi doesn't know it yet, but there is no way Aeka wouldn't know, with the Jurain
+Intelegence Service."
+"Her Rival?" Daisuke asked, suddenly catapulted into a Soap Opraish world.
+"Hai" is all Washu responded. Then she turned around and faced her experement, as behind her
+Aeka Jurai Masaki was speaking on the holo vid.
+Aeka stood to adress the council, in her hand a piece of paper, Royal seal intact and
+unbroken. Breaking the seal, she stood and read:
+
+" To the Members of the Jurain Council, This shall be my first and only decree"  Aeka read,
+part of the sentence choking in her throat. A look of horor fell upon the council. For some,
+this was soon replaced with a sly grin.
+
+"For all of your hospitality, I thank you. Likewise, for your friendship and support I
+likewise give thanks. However, Jurai is not now, nor has it ever been my home. When my
+grandfather turned down the thrown many years ago, he did so knowing that it was the right
+decision. I likewise have no doubts as to taking the thrown. I look in a mirror, and it is
+not a face of an emperor that I see, rather the face of a plain Earthling. I have neither
+the tact nor the experence to do this job. To take the thrown would be both iresponsible to
+you whom would call me master, and to myself. Therefore, I hereby abdicate the thrown to
+Aeka Jurai Masaki, in the hopes that she will rule with compassion, with love and with
+responsibility. If she is unable to rule, or dies without an heir, I hereby appoint Sasami
+Jurai Masaki as her successor, and the Jurain Knight Azaka regent in her stead."
+At this Azaka looked shocked. Clearly Tenchi had not told him of this choice.
+"I again wish you all peace and prosperty. This abdication is permenent. I will not now, nor
+ever entertain the thrown."
+
+With a somber spirt, Washu flipped off the Holovid projection.
+
+"You knew this was going to happen didn't you?" He asked her.
+
+"Hai, there is too much of Yousho in him, or perhaps too little. This decision was hard on
+him, yet somehow, he still made the right decision. Allways for the family."
+"Because he could never balance his family and the Jurain court he would become like his
+father, never home, always caring and allways seperated." Tenchi never knew her, but his
+grand mother was like that. Always taking the next step in career, and never at home. No
+mater how great the love it was never allowed to bloom and so his mother grew up without a
+
+mother.
+
+Daisuke noticed an interesting look on Washu's face.
+
+"Now it is time that we should ho to bed, it is getting late, and the experement
+will occur soon"
+
+"Hai Washu-chan, good night". Daisuke murmed as he trudged off to bed. As sleep
+gently claimed him, he still could not help but wonder what mystery lay ahead.
+
+Washu looked into the vat of bubbling blue-green fluid that currently dominated the floor of
+her lab to the casual observer, the tank appeared completely empty, but it wasn't totally as
+it appeared... hovering in the center of the tank were the three gems, placed in an exactly
+equilateral triangle. To slackers like Diasuke, this all probably seemed very bizarre and
+abstract, but Washu knew better.. she could feel the power crackling between the gems as the
+charged ether-vapor bubbled through them. Soon it would be time to start adding the Mass,
+and time to make up for a mistake 700 years ago.
+
+<Holofeed downlink -    Encryption status [NSFNE - Coverage Feed]
+                        Feed level [LIVE]
+                        Location[Grand Ballroom/Masaki palace]
+                        Anchor Status [CG-GEN]
+                        Subject Status [Royal Status]
+                        Importance [Filler]
+                        C80.S Jurai Standard Time [That Night]
+>
+
+It had been a harsh day and the reporter's face showed it. Full of panels of so called
+experts bantering back and forth about the ramifications of this decision. Personally, she
+rather would have reported on the Sal'ik races on Jurai Beta, but that was not an option.
+Word was that the Yuki family had already made a bid for the new crown princesses hand.
+Political lackeys were already forecasting the death of the Masaki family, regardless of a
+political marriage.
+
+It was announced that the queen would be crowned next week. Kagato had executed the previous
+emperor, and thus she was the only real choice until the next wave of politics settled.
+Still, Jurai had lost 4 emperors over the last one hundred years. It was not good odds that
+Aeka's reign would be any longer.
+
+Since this was only background material for the news feed, the reporter thanked Kami that
+she had no narration. For once, she just had to direct the Vid-bots, and sit back.
+Speaking of which, the reporter aimed the cambot at the door, as the Crown Princess Aeka and
+Princess Sasami entered the room. The day was clearly wearing on Aeka as she was surrounded
+by a flock of political pundits. Princess Sasami also looked depressed, but her new regent
+Azaka stood by to give support.
+
+It was all very well, the reporter thought. "The girl is younger then I am. That's a huge
+burden for anyone to carry." But still, she thought "To be Princess for a day."
+
+        *       *       *       *       *
+A kind word, a polite smile... and hand shake here, a nod there... It was
+all she could do to keep from screaming. The false politeness and
+strained smiles seemed each like shards of glass being thrust into her
+soul. Didn't they understand? Couldn't they feel her loathing of them?
+
+She hated them, hated them all... it was there fault he had left...
+
+Slowly she made her way toward the door. One more polite nod, two more
+friendly greetings, one more....
+
+The crisp evening air shocked her system as she stepped out into fading
+sunlight after an entire day cloistered with her "close advisors" when all
+she had wanted to do was run far away, lose herself in her misery, scream
+to what ever kami would listen her horrible pain.
+
+But she could not, for she was a princess.
+
+No, worse, she was about to become an queen.
+
+A queen, a true monarch, ruling alone on her lofty thrown, cold and dead..
+nothing more than a figure head propt up by the masses who needed a
+symbol. Once it was all she wanted, to server her people faithfully and
+fully, giving her life for them, knowing that her entire existance was
+dedicated to giving them the saftey and protection that only she could
+provide. It seemed like such a nice fantasy when she was a girl... She was
+better than all the others, she was their queen, destined since birth to
+rule, and as such she had no need of mortal concerns.. her only thoughts
+were those of her people.
+
+She had never wanted to be a girl, one of those silly slyphs who gossiped
+their days away and ran home to some stud for what her youthful
+imagination had always scene as something base and ignoble. Yet now.. what
+would she give to be normal? to go running home to tenchi for just such a
+reason? She had never believed in love as a young girl. The whole idea
+seemed silly to her. She was going to be a queen someday, after all, and
+how could the love of any one person possibly compare to the love she would
+hold for her people? and their love for her would keep her from ever being
+lonely....
+
+Well, she had certainly been half right. It seemed no love could come
+between here and her people... but only now she hated them, hated them all
+for taking Tenchi from her.
+
+Or was it her fault that tenchi had left?
+
+Why? why couldn't he have been content to live and rule by her side? he
+was strong, he had every right to be there... but he wouldn't. He couldn't
+concieve of putting duty before love... and oh how she wished to be that
+love...
+
+The palace gardens were breaktakingly beautiful as she strode through
+them, lost in her thoughts, but their buty seemed alien to her now... what
+did mere plants know of beauty? they had never gazed into his eyes.... and
+now Ryoko was dead. That thought should have at least brought her some
+comfort, but it didn't. It was just one more sign that things would never
+be the same again, that this wasn't some awful dream that she'd wake up
+from and be right back at the tenchi house, fighting with Ryoko over
+tenchi's affections. She tried to take solace in the fact that she hadn't
+lost to Ryoko, in the end, but it was a bitter sweet ending. Someone
+should have got him, if only so she could be angry with them, yell and
+scream and take out her anger on them for stealing tenchi away from her,
+but there was nobody. Nobody but her people.... the one love she could
+never hide from, never truely hate, and never turn her back on.
+
+that was all she had left now, her love for them, even if she hated them
+at the same time...
+
+Slowly she turned back toward the palace, tired and feeling old beyond her
+years. She had to get some rest... this evening was a party on her behalf,
+and her people needed her.
+
+And so she walked, quietly and weakly back to the palace. Behind her she heard the
+familiar whine of a Ryu-Oh cruiser as it left Jurai, it's destination well known
+to her heart, she whispered "Sayonara, Tenchi."
+
+        *       *       *       *       *
+
+"Now daisuke-kun!"
+
+With a throw of a switch, and a verbal command to the DLR, Washu's great machine
+was set into motion.  Daisuke could feel the immense power Washu's unorthadox
+generator whip thru the room, as if resonating with his soul.
+
+He had never felt so alive.
+
+Without the hesitation or fear he probably should have been feeling at the
+dangerously high levels of free-form energy ripping accross the room, he
+leapt to do as Washu-sensei commanded, pressing the plunger down on a
+sirenge filled with a gray-brown sludge, injecting it into a tube leading
+to the rolling, boiling vat of churning blue-green in the center of the
+room.
+
+Now *this* was science!
+
+Washu-sensei seemed more like an archane sorcerer than the universe's most
+brilliant scientist as she stood upon her floating cushion, dozens of
+etheric displays spining around her as her hands flew in a blur of typing
+and button pushing, swing around her as if conducting the greatest
+orcastra science had ever known.
+
+Sparing her only a moment's glance, daisuke darted to the other side of
+the vat, squeezing off a value here, throwing a switch there, all in the
+precise order Washu-chan had laid out.
+
+With a wild grin, he burst out laughing from the sheer joy of it.
+All his life he had thrilled to the purity of science, the numbers that
+told the tale of life itself, giving power unlike anything found in the
+galaxy, but this, this was more... Now quietly tinkering with a gadget in
+a sterile lab, no fighting through beaurocratic red tape to do a simple
+expirment... here the power of science ruled supereme as thought seemingly
+was given form with no effort, the very limits of existance seemed within
+his reach!
+
+This was life.
+
+        *       *       *       *       *
+
+It was nearly done, Washu reflected. Around her the great machine began to
+slowly come to life. Stealing a brief second away from her work she observed
+her would be protoge as he danced about the room in mad joy.
+
+"He's been seduced" Washu thought to herself. "Just like I was."
+
+No more time was left for further ponderence, as Washu lost herself in her calulations.
+        *       *       *       *       *
+
+It was all so very stupid. Or at least, that is what Sasami told herself. One Royal metting
+after another. Suffocating, stupid, a waste of time, useless, moronic and thoose were just
+the polite words that came to mind. Unlike Terran swear words, which tended to deal with
+bodily functions, all of Jurai's impolite words were terms used in meetings. Somehow it was
+all so appropriate.
+
+It was bad enough that she was at council again after the freedom she had experenced on
+earth. It was even harsher being forced to listen to the prattle of the various nobles.
+
+Beside her, she heard Kamadike snifle a giggle. She quickly blushed as she realized that he
+had been watching her. Then see joined in as she realized that he too felt the same way. On
+her other side, Azaka shot them both a stern look, but even he was not able to hide a small
+glimmer in his eyes which betrayed that he felt the same.
+
+Sasami knew what these meetings were about. Aeka realized that her postion inside
+the Jurai Clans was very week. The lesser families were hoping to capitilize on it,
+trading their support for a closer relationship to the crown. Given time, these
+
+relationships might be enough to hold off the other families. Aeka was nothing if
+not a consumate politician.
+
+And so Sasami was forced to sit and listen to the demands of the lower house. Some
+of them requesting formal trading alliances. Many requested a royal intervention in some
+
+manner or another in their local sphere of influce.
+
+Sasami watched as Aeka bobbed and weaved around the requests. Appearing to grant
+all their wishes, but commiting to nothing.
+
+Then with a rush of air, the doors to the hall were opened. Proceding their guest,
+a royal fanfare announced the enterence of a royal family. If not for the fact
+that the overbearing enterence allready gave it away, the pink and gold crest of
+the Yuki family identified the haughty visitors.
+
+As protocol dictated, the keeper of the house honor first knelt before Aeka, then
+the patriarch of the Clan, and finally, the Heir to the House of Yuki, Seriyou came
+to face before Aeka.
+
+"My Lady, it is great to once again see the face of a Masaki Clan ruler on the throne. For
+
+many years now, the harsh political winds have divided our country. We of the Yuki clan feel
+
+that now is the time to start healing rifts."
+
+Sasami watched as a chess game began to emerge between her sister and this noble.
+
+Aeka responded smartly and curtly "It is well then, I assume that you mean that your
+family will once again support the Masaki clan"
+
+Seriyou smiled as he countered. "That is certainly not out of the qustion, however,
+we feel that the House of Masaki has grown to weak to continue to rule the empire by
+itself."
+
+Aeka smiled, the endgame of this chess match revealed. "The Masaki dynasty is still the most
+powerfull of the clans" Seriyou refused to grant that point, instead responding "That may be
+so, but not nearly as much as what was. The Dynasty is only a shadow of it's once great
+self. We belive that by uniting the Masaki family and the Yuki family, we could once again
+bring Jurai into greatness."
+
+Aeka studied the fire in Seriyou's eyes. Gathering her wits and streng, she ended
+the match.
+
+"No" Sasami looked at her sister, understanding her decesion, even as the political
+implications began to hit her.
+
+"Princess, why do you insist on being so stubbern? We offer you the chance to keep the
+Masaki family as the royal clan. Should you turn down our offer, a coalition will form
+whoose only task will be to keep you and any Masaki heir off the thrown."
+
+"No" Aeka responded, her resolve hardening.
+Seriyou smiled, and a shock ran thru Aeka. He was not here for her hand, he had something
+else in mind.
+
+"Very well princess. We have waited thus long for our chance, we can, perhaps wait longer.
+But the elders of my house will not agree with this, unless I can present a token of your
+good will. If not you, perhaps your sister. Allthough the marriage would have to wait a few
+cycles, both of our goals would be accomplished"
+
+A look of horror, and then revulsion shot thru Sasami. At her side a look of disguest
+replace the normally impasive expression on Azaka's face.
+
+For a second, nothing happaned. Sasami looked at her sister in suprise, then hurt, then
+rebuke as Sasami realized that Aeka was actually considering the offer.
+
+The vhement look in Sasami's eyes shocked Aeka back to reality. As she slowly realized that
+she had almost agreed to sell her sister, for peace in her empire.
+As this thought sunk in, Aeka flew off in a rage. Screaming for them to leave, she stormed
+out of the council. Behind her Sasami departed in a huff, hurt and confused by the near
+betrayel.
+"Well, that didn't go very well" Kamidake muttered.
+        *       *       *       *       *
+
+It was the mystery that had him. Even after all this time he could not figure it out. What
+was the secret? What was this machine? In the center of the room stood a transparasteel vat,
+it's sides gleaming as energy slowly charged the crystal walls. Besides it a Pulston
+Converter whirred in frantic movement. He watched as energy leaked from a bank of High
+Density Organic/Carbon interfaces. As he ran his hand along the bank he could feel the
+biological interface try to bind with the nuerons in his fingers.
+It was a marvel, a miracle, and the pinacle of human evolution.
+
+"Admiring our work?" A voice behind him interupted his train of thought. Daisuke turned
+around startled to see Washu. She was wearing a pair of sweat pants and a short cropped top.
+Her hair was up, with strands of it escaping her night cap.
+
+But her face.
+
+Washu had allways been known as the "enternal child." Once, or so he was told she had looked
+but had reverted to her childish form right before her banishment from the acadamy. Since
+then whenever seen in public, or in picture, her childish form was allways shown.
+
+It was her face.
+
+None of the childish glimmer that had shown in her eyes when the dean that banished her was
+forced to recind his order, nor the evil childish twitch when she took the chair of the
+science acadamy and swore that she would not build any more weapons.
+It was a calm and mature face. Like the face of a mother.
+Without a word, Washu walked over to a console switch, and typed in a command to begin
+charging the N-Cuples. Silently, she walked back past Daisuke on her way out.
+Daisuke swiveled around to examine a console, but then realized that Washu had not left, but
+was watching him.
+
+"Daisuke" Washu's voice pierced the darkness.
+
+"Hai"
+
+"Do you have a family?" Washu asked.
+
+"What do you mean, Washu-sensei?" Daisuke asked.
+
+"I thought the qustion was kind of self explanitory" Washu responded, a little glint of
+mischeif in her eyes.
+
+"Hai, I was raised on Raynt"
+
+"And your mother, what kind of women is she?" Washu asked probibing gently.
+
+"I don't know really..." Daisuke said quietly.
+
+"Why is that?" Washu continued to probe.
+
+"Well, you know... all of the studying. I really left home early for the prep schools. That
+was when I was five, so I haven't seen her very much" Daisuke stammered.
+
+"Do you ever miss them?" Washu asked, it a quiet voice. Daisuke looked at Washu, who had
+turned her back to him.
+
+"Sometimes.." He addmited, as he turned towords the giant class container. "But I know that
+they are proud of me, because I am in the Acadamy. I am special because of it"
+
+"Why do you ask, Washu-sensei?"
+
+"I had a daughter once"
+
+"But...." Daisuke stammered, guinly shocked.
+
+"She died a long time ago, before you were born"
+
+"I'm sorry" Daisuke resonded, sympathy in his voice.
+
+"No, I am" Washu responded, her voice lost in a memory.
+
+"I never knew her. Her father and I fell in love, but there were complications. He was from
+a royal family and I, a mere student, with no royal blood would have been unfit for a
+political marriage. So we married in secret.
+"But he was called off to some war. Meanwhile I found out that I was pregnent. So I had the
+child because I was afraid that he would never return from the war, and that she would be my
+only memory of him."
+As he stared into her eyes, Daisuke could see the hurt and the pain in this memory.
+"When she was born, I put her in stasis, fearfull of what he would think. When he finally
+did come home, instead of wanting to keep the child in stasis, he wanted to leave, and to
+run away from his world. To raise a family with me and our Daughter" Washu smiled for a
+moment, before continuing her story.
+"But I didn't. I had just been offered the chair of the acadamy. My life was here. The only
+thing that I ever was good at was here. Here I was Washu-sensei. Away from the acadamy, I
+thought life would be worthless. I have no parents. I was an orphan. My only life was here"
+"And then he left, and he took our child with him. It was then that I began to realize my
+mistake. Each day became more and more useless. Soon I began to be depressed. But as this
+happaned, I came closer and closer to a break through. It consumed me. I became bitter with
+a set back. But like my attitude my research became more malicious. I thought that he had
+betrayed me, and I began to wish for revenge. It became a tool for my hated."
+"The Acadamy soon found out, of course. They told me to stop my research and take a
+sabaticle. But I could not trade away the work that I traded my husband and daughter for, so
+I continued. Eventually the break through occured. But it was all empty. So I focues on
+creating more energy, each reaction stronger then the last, but none could fill the void I
+
+had."
+
+"And then I was banished"
+        *       *       *       *       *
+
+Akari slowly passed Jessi as the final lap began. Pivoting left and right Alya tried to pass
+Akari. The finish line raced closer and closer. Meanwhile, behind Akari Tanya had a suden
+burt of energy and passed Akari. The screen suddenly went white as a voice announced in
+badly mangeled english "Akari Kanzaki, Number 2."  Taking a moment to rest, Sasami drooped
+her head between her knees as she tried to dismess the torture of the day. The game system
+was one of the few momentos she had brought with her from earth, and had recently become her
+method of dealing with the frustration of living on Jurai.
+Her sister had apoligized to her later. Somehow now Sasami could understand why Aeka had
+been so desperate to leave the royal circle when they first left for earth, and when they
+had first met Tenchi.
+
+But these thoughts did her no good. Rather then wallow in more self misery and memories, she
+punched start on her gamepad ready for the next move.
+
+"Sasami-dono, would you mind if I played?" A voice interupted her solitude.
+
+"Oh, Azaka-san... Sure..." Sasami smiled for a moment and handed Azaka the other controller.
+She switched the game to a martial arts combat. Selecting her character, a tall and busty
+blond American girl,  she waited as Azaka figured out the controls and selected his
+character. Showing him how to move and fight with his character she started the game.
+Throwing an upper cut, she slammed his character into the pavement. Following up with blow
+to the knees, she looked in suprise at Azaka, who had a embarresed look on his face.
+"Why don't you fight back?" She asked.
+
+The blush in his face grew deeper, as he tried to explain: "But I can not strike
+a woman."
+
+"It's a video game..." Sasami pointed out.
+
+"So?" Azaka responded missing her point completly.
+
+Wasting no time, she chi-blasted his character.
+
+"Ack...." Azaka got out as His character dropped into a charred mess in the middle of the
+screen.
+
+The computer announced that Player One was the victor. As the computer started the next
+round Azaka's character, a large block of wood charged Sasami's character. Soon the roots of
+chivalraty gave way to competiteve instince. Laughter finally filled the empty caverns as
+the days troubles finally evaporated away.
+
+        *       *       *       *       *
+It was hard to imagine that he was traveling faster then the speed of light. Tenchi stood as
+the stars scrolled by. He had long ago dismissed the couriers that had flocked him so on
+Jurai, and was alone against the darkness of the sky.
+
+Was he really the first Terran to see this sight? He could not help but wonder at the
+universe in front of him. The ship's Jurain master was deliberalty giving him a senic view
+of the Universe, one final gift from the Jurain people. He watched as Nebula envoleped them,
+with little pinpicks of light where the solar winds of the stars reflected off of the gas.
+In a heartbeat the Nebula was behind them as the universe passed by. As his voyage continued
+he could see the Gas Giant of 51 Pegasi, or the Jurain world of Handura. The Planet orbited
+so close to the star it almost appeared to be a massive comet.
+Closing his eyes as nausia caught up with him, he stepped away from the transparent canopy
+and sat down next to his grandfather.
+
+"Well Tenchi, we are heading home at last" Yousho said. He had been brought back from the
+brink of death. His wounds were still severe but not so much that he would not heal.
+"Tenchi, you made the right decesion" Yousho's voice reassured him. "I know" Tenchi
+responded, his voice confirming the depth of his confidence. "Good Night,Tenchi" Yousho said
+as he started to stroll out the room.
+
+"Ji-chan?" Tenchi asked.
+
+"Hai" Yousho responded.
+
+"Why are you returning to earth?" Yousho just smiled at Tenchi for a moment, and then stared
+into the void, as if pleading for an unsaid wish.
+"For my family" he responded as he quietly left. Behind him, Tenchi looked confused, and
+then stared into the night sky, seeking the answer to a qustion that would never be asked.
+And the stars continued on their wayward journey.
+
+        *       *       *       *       *
+
+"I suppose it is time..." Washu murmered. "Daisuke come over here..."
+
+"Huh?" Daisuke asked...
+
+Washu had in front of her what appeared to be a cyrogeneration unit. The type of unit that
+was commonly used to put people in suspended animation while surgury was performed.
+Daisuke gasped as he looked into the unit. Inside was a women, probibly no more then twenty
+or twenty one years old. Her face was deathly pale. Too pale in fact.
+Daisuke looked at Washu who confirmed everything with a glance.
+
+"This is Ryouko isn't it?" Daisuke asked, in shock and amazement.
+
+"Hai"
+
+"Computer.." Daisuke whispered, "Run a biocheck on occupent.." Daisuke looked at the screen
+for the information.
+
+Biocheck self diagnostics [.......]
+Statis Field diagnostic [..............] OK
+INTR Flux Field diagnostic [..............] OK
+Slow Life Function diagnostic [.......] OK
+All Systems OK
+
+Biocheck Occupent
+Occupent Name [ Ryouko ]
+Occupent Type [ Humonoid/Class III - genetype ]
+Occupent Age  [ 19 ]
+Body Weight [ Un-phased Mass - 113 ]
+Blood Type [ N/O/+ ]
+
+Occupent Status
+
+Nuron Interchange [ ....warning.... below critical threshold]
+Protoplasmic Reflux [ ....warning.... below critical threshold]
+Blood Flow [....warning.... below critical threshold]
+Blood filtration [....warning....below critical threshold]
+Brain Activity [....warning.... below critical threshold]
+
+Occupent Status Check [FAIL]
+Occupent Time of Death [ 2wk ]
+
+"She's dead" Daisuke said.
+
+"She died in the raid against Jurai" Washu said. "I found her ship in orbit around Jurai
+Beta. The ship is a proto-b cabbit, and called me for help. When I got there it was too
+late. She had been fataly injured two days before by Kagato. She knew it, but still remained
+with the group. She piloted Tenchi to Jurai, but expended what little strength she had
+left."
+
+Slowly lights began to click on in Daisuke's mind. "This machine we have been creating..."
+"Is going to bring Ryouko back to life" Washu finished.
+
+"How is that possible?" Daisuke asked, once again dazled.
+
+"Many years ago, there was a competition to see who could build a true Synthenoid
+being. Three scientists from the post on Regal competed using the Minagi matrix. Allthough
+their synthenoid was feasable, it was not much more powerfull then a real human. But the
+Astral Pattarn, the Soul if you will, turned out to be far more complex then anyone thought
+or realized. It was, and still is beyond reproduction.
+In the background, a ghostly face began to emerge in one of the synthtubes. Slowly a body
+started to form in the blue green gel.
+
+"We, at the Science Acadamy were also working on this project. We called it the Zero
+Project. We knew that the Astral Pattarn would not be reproduced, so we decided to try and
+create a body that would be far more powerfull then a human. Rather then create a fancy
+anderoid, we wanted to create something that we could put people's souls into to extend
+their life and their power. However, we could not get the matrix to bind to an astral net."
+Washu contiunued.  "The need for power was enormous, both to fuse the net and to keep the
+net bound. It was beyond the technology of the day, or for that matter, today."
+Suddenly, everthing clicked for Daisuke.
+
+"The gems"
+"Hai" Washu responded, as the last piece of the puzzle fell into place.
+"We can use the gems to provide both the power to fuse Ryouko's Astral Net to the Zero
+Matrix. Her Astral Pattarn still hasn't faded, and she has only 2% memory loss at this
+point."
+
+"But that kind of energy use" Daisuke murmered.
+"Will cause a large discharge of Entropy Flux" Washu prompted.
+"Which will cause massive destruction" Daisuke finished.
+"Which the Science Acadamy will interperate as weapons reasearh, and banash me again."
+"But that's not what you are doing.." Daisuke responded naivitly.
+"That's what they will believe" Washu said as she floated Ryouko's container into position.
+
+"But what about me, I can verify your story" Daisuke mentioned.
+"They are going to believe stories about resurection, magic and gems? I wouldn't" Washu
+responded gently.
+
+"There has to be..." Daisuke started.
+
+"There isn't, and I don't want any way out."
+
+Daisuke stared at Washu for a moment uncomprehending.
+Washu smiled in a manner that only Washu could, and then wrote down a mathamatical eqution.
+Solving it, she wrote three numbers, a three demensoinal location of the blast. Daisuke
+looked at the numbers for a second before realizng that the aphex of the blast would be the
+Dean's office.
+
+"And that settles it" Washu said with an evil smile. "They may banish me, but it will take
+a long time to dig the Dean out."
+
+"Why?" Daisuke stammered.
+
+"Daisuke, stay here with me. They will banish me, but I have a family to go back to now. You
+can go home to yours, or come with me." Washu asked him.
+
+"What?" He answered.
+
+"Leave the acadamy, there are far more important things to be done."
+
+"But I would be disgraced." He objected. "So what?" Washu responded curtly.
+
+"In the long run, how important is it?" Washu demanded. "Is the acadamy worth your family,
+your life?" Washu challanged.
+
+Daisuke studed her in deatail before replying.
+
+"The Acadamy is the only thing I have". Washu sighed, and then turned her back making final
+preperations for the experent. Daisuke started to say something, then thought better of it,
+and began to walk towords the door. As he put his hand on the knob, he turned around and
+looked at Washu.
+
+"Washu-sensei" He started to speak.
+
+"Hai..." Washu said a sad smile on her face.
+
+"Why are you doing this for Ryouko?" He asked.
+
+"My daughter died a long time ago, I can never get her back. But maybe, just maybe I can
+have a new daughter" she said as she smiled.
+
+"Washu-sensei, Arigatou" Daisuke said as he left the lab.
+
+Washu sighed once again as she charged up the synth pattern, Behind her the cybernetic being
+took full form. "Just like me" she thought.
+
+Slowly, one by one the machines whirred to life. Sparks began to flow. Calling up a
+projection of the Dean's office, she double checked to make sure that the Dean, a pompus old
+fool named Clay, was in the office. Behind her, the stasis field around Ryouko's body
+dissolved, as the computer began the countdown.
+Walking over to the synthesised body, she placed the gems on each of the wrists, and one on
+the neck. This would be the only clue as to Ryouko's new body.
+"Ryo-oh-ki..." said into the air.
+"Meow", a small cabbit replied as it scampered across the desk.
+"Listen closely, when Ryouko comes too, her memories will start coming back to her slowly.
+When she asks, take her to earth."
+
+"Meo...Meow...." Ryo-oh-ki responded happily.
+
+"You are not to say one word about this, do you understand?" Washu asked, in a strong voice.
+Ryo-oh-ki looked indecisive for a moment, and then agreed. Washu smiled. "Now, get out of
+here. You can pick her up in about an hour. See you on earth".
+Ryo-oh-ki quickly scampered away, leaving only washu and the lifeless form of Ryouko behind
+her. Washu walked over to Ryouko then smiled. For a moment, her thoughts drifted back to
+Daisuke. He was back on the surface now, no doubt. In so many was he was so like her. In
+ambition, in science and in desire. Except for one. Except that she wanted her family back.
+Then Washu threw the switch to start the proccess. As the energy charged around her, she
+could see the gems start to resonate. Behind her the Ryouko's pattern began to emerge more
+stronly. She watched as the data began to be proccesed by the computer, then downloaded into
+the gems, and finally into the body matrix. Slowly the proccess continued. More and more
+energy was being formed by the gems. It was almost done now, just a little more energy would
+be needed, Then all went white.
+
+        *       *       *       *       *
+
+As Yousho stood on the cliff, he could see the entire valley below him. He could hear every
+bird, every animal as they scampered thru the forest. In the distance, he could see the
+school bus that was bringing Tenchi home as it weaved up the mountain road. He could see the
+Jurain Tree Ryu-Oh as it began to grow in the middle of the lake. Behind him was the grave
+of his daughter. Above him was his shrine.
+
+He had returned to his home. Jurai would never again have that distinction for him. This was
+the place where his daughter was raised. This was the place where she was married. This was
+the place where she had given him his grandson. This was the place that his grandson had
+continued in his legecy, not of blood, but of honor.
+So many happy memories, and so many sad memories.
+For this is also where his daughter had died.
+And the day passed on. The bright sun began to give way to the dusk, and then to the night.
+The stars came out on cue, the moon began it's journey. Soon night gave way to dawn. He did
+the duties of the day at the shrine, and then returned to the cliff.
+He had once thought his life complete. He had once wished no more then for a quiet death,
+but now life once again was returning. Below him, he watched as Tenchi's bus left for
+school.
+
+So much had happaned. Kagato had returned. Tenchi had defeated them. The knights had been
+resurected. Aeka had taken the thorwn. Tenchi had not heard, but as they left the news came
+that the parliment was trying to unseat her. As he looked into her eyes, Yousho realized
+that she wouldn't fight. It was only a matter of time before they returned here. Mihohsi and
+Kiyonne would quickly grow tired of the politics, as would Aeka. Sasami would follow her
+sister, as much for her own reasons if not to support Aeka. Ryouko would also return, if
+rumours he had heard were correct. They would all return for Tenchi.
+That left one other. Perhaps one would come back for him. It had been so long ago when he
+had left her behind. It was the day Kagato was defeated at his hands. It was the day he
+decided that he did not want his daughter growing up in the court, where ruin was a game,
+and life was meerly a bargining chip. So he had left, leaving behind Jurai, the politics,
+the wars, and his wife. Many things in his life had been difficult, but none more then that.
+
+Not even Achika's death.
+
+And then a shooting star pierced his silence. And then another, And yet another. Squinting
+he could make out a Jurain Battleship, a Jurain frigate, and a GP cruiser.
+None of theses interested him. A fourth and final star announced the prescense of Ryo-oh-ki.
+Behind him, he heard the tell-tale whisp of a subspace gate. Keeping his eyes on the lake,
+he smiled quietly. Behind him he heard a step and a quiet shuffle as the visitor knelt at
+Achika's grave. He closed his eyes as he heard her offer a silent prayer at the grave.
+Yousho looked at her for a second as she aproached. Then returned his gaze at the valley
+below. As he felt her arms around him, he smiled and gently said "Welcome Home"
+
+*
+*
+*
+
+Whew, this one took a while. It mostly wrote itself. In retrospect, Ryan would probibly
+rather take his name off this fic since there is not a single line by Ryouko in it ;-) this
+will probibly be the only TV storyline fic I ever write. The next tenchi fic I am working
+on: Tenchi Muyo: Of Lullabies and Angel's Wings will be OVA storyline. Slayers: Elvenblade
+has been kicking around in my head as well.
+Anyways, so what did you all think?

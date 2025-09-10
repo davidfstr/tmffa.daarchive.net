@@ -1,0 +1,1072 @@
+<Disclaimer: A statement made to save one's ass.  I do not own most of these 
+characters, AIC and Pioneer do.  Disclaimer on the disclaimer: I stole that 
+disclaimer from Kevin Smith's *Dogma* (damn good movie).  The title of this 
+chapter is a German word meaning "in-between move" and refers to a chess 
+situation in which an anticipated sequence of moves is stopped by an unexpected 
+move.  This chapter deals directly with the Science Academy and Washu.  There is 
+one section that is highly technical and has little to do with the plot.  That 
+section will be set off by asterisks and can be skipped without missing much of 
+the story, but anyone with an interest in physics or mathematics may wish to 
+read it.  Enjoy!>
+
+Opening Moves
+Part Two: Zwischenzug
+
+	*Knock, knock.*
+	The short, redheaded scientist looked up from a paper she had been 
+reading.  The student who wrote it had obviously only started the night before 
+and, given the fact that he missed class at least once a week, it was no 
+surprise that there was little understanding of the subject matter evident.  
+"Come in," said Washu in her nasal voice, stamping an "F" on the paper.
+	The door pushed into the small office, causing the clatter of the plastic 
+crab hanging on it.  A tall, well-built man who had a physical age of thirty 
+walked in.  He had slick black hair combed sideways in a vain attempt to cover a 
+bald spot.  His face was long and rectangular and his chin appeared to be split 
+in two.
+	"Dean Hekomi," said Washu cheerily, throwing the stack of papers over her 
+shoulder as a subspace hole opened to catch them.  "Take a seat."  The dean sat 
+down in a chair on the opposite side of Washu's desk.  He had no trouble finding 
+a place to put his chair since the office, unlike those of many professors, was 
+immaculately neat.  This was due to her access to unlimited storage space in 
+other dimensions.  Aside from her desk in the center and the crab wallpaper, the 
+room looked as though it was unused.
+
+	"So, what can I do for you?"
+	"I just wanted to tell you that your new student assistant is arriving 
+today."  Washu loosed a sigh and put her head in her left hand.
+	"Great, another straight-A, ass-kissing, yuppie, spoiled rich kid."
+	"I don't know about all that, but I can tell you that he definitely isn't 
+rich.  Far from it, in fact.  He's a Trolaxian."
+	"He's from Trolax?  Is that the planet that's going through civil war?"
+	"On and off for about the last forty years.  And even when they don't have 
+armies blowing each other open, it's still not a nice place to live."
+	"Well, wherever they're from, they're still just a bunch of suck ups.  If 
+I wanted my ass kissed I'd get a robot to do it."
+	"Sorry, but this is the way it's going to be."
+	"Why are you assigning me a physics major, anyway?  I'm a biologist, not a 
+physicist."
+	"Your research is taking on a distinct multidisciplinary feel.  You're 
+investigating transmaterial beings.  Mass have only just been discovered.  No 
+one knows what to make of creatures composed of matter, anti-matter, and 
+neutral-matter.  You need someone who understands physics if you're looking into 
+matter/anti-matter relationships."
+	"Fair enough, but why a student?  Why not one of the other professors?"
+	"They all have their own projects.  Besides, don't tell anyone I said 
+this, but this kid is smarter than most of the professors we have here."
+	Washu sighed and bowed her head.  "Fine, send him my way when he shows 
+up."
+	The dean stood up and turned to the door, which he barely managed to catch 
+with his hand when it unexpectedly swung open at him.
+	"Oh, I'm terribly sorry for that, sir," said a deep, mellifluous voice.  
+Washu looked up and saw a tall, green-haired young man wearing a Science Academy 
+uniform.
+	"What a coincidence.  We were just talking about you.  Professor, this is 
+Kagato."
+	"It's a pleasure to meet you, Professor Hakubi," Kagato said, sitting down 
+and extending his hand.
+	"Washu, please," she said, shaking hands with him.
+	"Well, I'll let you two get acquainted," said Hekomi, shutting the door as 
+he left.
+	"So, why'd you decide to come here?"
+	"What prospective scientist wouldn't want to attend Royal Space Academy?"
+	"Actually, our ties to Jurai have been severed.  We just call it The 
+Science Academy now. Let's see... I understand you're from Trolax.  What's that 
+like?"
+	"I'd rather not talk about that.  Actually, since we're going to be 
+working together, I'd like to discuss some of the previous works of yours that 
+I've seen."
+	Washu resisted rolling her eyes.  <Here we go.>  "What about them?"
+	"Well, although your general ideas are well thought out, I've noticed that 
+when you attempt to draw specific conclusions your results are often acutely 
+flawed."
+	Washu paused for a moment, not sure she'd heard correctly.  "Whaddaya 
+mean, flawed?"
+	"Take your analysis of the breeding of the mutated strain of Alyspans, for 
+example.  I know studying silicon based creatures is difficult, and I was very 
+impressed with your discovery that it takes four individuals to produce three 
+offspring.  But then you made an error when you stated that the population would 
+stabilize eventually at 1.2 million."
+	"What's wrong with that?  It's not as if they have any predators.  There 
+are 300,000 individuals.  Each can reproduce only once, and you already 
+mentioned the 4:3 ratio.  Surely you can compute a simple geometric series?"
+	"Give me a little credit.  No, it's not the calculation that's a problem, 
+it's that you're ignoring any number of randomizing factors.  Irregular weather 
+patterns can kill individuals.  Radiation from the solar winds could sterilize 
+some.  Also, on rare occasions they have more than three offspring."
+	"But those are all minor variations," protested Washu.
+	"Of course they're minor.  But each minor change causes another minor 
+change which in turn causes another minor change and so on, completely 
+eliminating any hope of exact predictability.  That's the essence of Chaos 
+theory.  I looked at these 'minor' changes, and by my calculations trying to 
+find the final population has a minimum margin of error of 150,000."
+	"I don't buy that argument," said Washu.  "You don't seem to realize how 
+this planetary ecosystem is able to adapt to neutralize change.  It's a simple 
+exercise in Le Chatlier's principle."
+	The two continued debating for the better part of an hour.  <I've never 
+seen a student so stubborn as to contradict me like this.  I guess he reminds me 
+of myself.>
+
+	The first couple of weeks at the academy Kagato spent moving into his new 
+living area and finding out about his courses.  After two weeks, he went to meet 
+with Washu for the first time since their introduction.  He approached her door 
+and was nearly bowled over as a man came storming out.  This man had curls in 
+his hair that many women would kill for.  He stopped short just before hitting 
+Kagato.
+	"Don't come back here unless you have something worth my time, Clay!" 
+shouted the nasal voice within the office.
+	"Grr... I hate that woman," growled Clay.  He then turned to face the 
+other inhabitant of the hallway.  "Ah, you're that student that Washu took under 
+her wing.  Let me give you some advice, boy.  That woman is poison.  I'd stay 
+away from her if I were you."  He then stepped past and walked away huffily.
+	Shrugging it off, said student walked forward and opened the door.  "Who 
+is it now?" snapped Washu, looking up from her holocomputer.  Her eyebrows were 
+arched, but her face relaxed into a smile when she saw her visitor.  "Ah, 
+Kagato," she said cheerfully.  "What can I do for you?"
+	"What was Dr. Clay so mad about?"
+	"Oh, he wanted my support for some half-assed grant proposal.  That 
+idiot's always trying to get things to work for him."
+	"What is it between you two, anyway?"
+	A devilish grin appeared on Washu's face.  "It started 15,000 years ago.  
+We were both trying to become director of the academy, although looking back I 
+wonder why I wanted that headache in the first place.  When he was making his 
+presentation to the board, I switched the video he was using for a porn movie."
+	Kagato raised his eyebrows.  "I didn't know you were the type to use 
+tactics like that."
+	"Trust me, he deserved whatever he got," said Washu, all joking gone from 
+her face.  "For starters, he's incredibly hubristic.  He honestly believes he 
+can create perfect technology.  Worse, though, is the way he treats his 
+students.  He acts as though they're nothing but tools to advance his own 
+career.  A man like that has no place running an academic institution.  If I had 
+my way, he wouldn't be here at all, but his technology does make us a lot of 
+money."  She sighed deeply.  "But enough of that!  You didn't come her to talk 
+about Dr. Clay."
+	"No, of course not.  Actually, I was hoping you could show me the 
+creatures we're supposed to be investigating."
+	"Ah, mass!  Well, I suppose there's no time like the present."  She pushed 
+herself up from her chair.
+	"I looked for your lab, but I couldn't find it on the map."
+	"That's because it isn't on the map."  Grinning, she pressed a button and 
+a portal appeared on the wall.  Kagato's mouth dropped a bit and he followed her 
+through.
+	"A subspace lab?" he asked, looking around wide-eyed.  "Don't these cost a 
+fortune?"
+	"Especially one of this size.  There are five planets in this lab.  
+Fortunately, my ex-husband still makes a few involuntary donations from time to 
+time.  Not that he has anything to complain about; it's a great tax write-off.  
+This way."  Kagato followed mutely as Washu led him to the fourth level, passing 
+a security checkpoint at each one.
+	"This is the second most secure level of the lab.  A lot of the stuff here 
+is top secret."
+	"And you're letting me in?"
+	"Normally I'd blindfold a visitor until we got to where we were going, but 
+I trust you."
+	"If this is the second most secure floor, then what's in the most secure?"
+	Washu grinned.  "I don't trust you that much," she said teasingly.
+	"Touche. So, where are they?"
+	"Right there," said Washu, pointing at a towering wall tank that was 
+conspicuously empty.
+	"I don't see anything."
+	"That's because there's nothing to see.  The mass are dispersed throughout 
+the tank and are currently immobile, since they have nothing to do.  Mass are 
+colonial, and so they unite in reaction to a stimulus.  Right now, there are no 
+stimuli in the tank and I have it set up so that while we can see inside, no 
+sensory data can enter it.  But watch this."
+	Washu typed in some commands on her ubiquitous keyboard.  A large fish, 
+easily whale sized, appeared in the tank.  It started swimming through the tank, 
+stirring up the water.  Slowly a brown substance began to conglomerate.  It grew 
+larger until its sized rivaled that of the fish.  Then, it suddenly began 
+shooting beams of energy at said fish.  Kagato's jaw hit the floor.
+	"Are we safe from those things?" he asked as the fish thrashed at the mass 
+creature to little avail.
+	"Physically they're easily capable of breaking the glass, but they 
+wouldn't attempt to do so unless they were stimulated by something outside, and 
+I already said that they can't sense anything outside.  The only sensory data 
+that could enter that tank is a communication from another mass creature."
+	"What sort of communication?"
+	"They're colonial creatures and communicate with each other 
+telepathically.  Don't worry, though, all of the mass are contained in that 
+tank, so it won't be an issue."  Washu stopped speaking as mass vaporized the 
+last remains of their enemy, then dissipated back into obscurity.  "Your 
+analysis, Kagato?"
+	"These creatures obviously possess immense power.  Since I already know 
+that they're matter/anti-matter, I assume that that's how they discharge so much 
+energy.  And since this is a colonial creature, I'd bet that individual mass are 
+sacrificed, their components mixed, and then the resulting energy launched at a 
+threat."
+	"That was my assessment as well.  They are most commonly in the form of 
+small brown orbs a few inches in diameter, but an individual mass is almost 
+microscopic.  The neutral-matter of one mass is destroyed when they need to 
+attack, causing the small amount of anti-matter to mix with the greater quantity 
+of matter."
+	"So they have to stay in groups.  All right, I understand that much.  But 
+why do they form orbs?"
+	"For the same reason a soap bubble stays round.  They take whatever form 
+requires the least amount of energy to maintain while still being sufficient to 
+deal with whatever problems they have to overcome.  Right now, they have no 
+stimuli at all, so they are maintaining a spherical shape, since that is the 
+most energy efficient shape possible.  If they have some problem to handle, then 
+they will take another form until the problem is resolved."
+	"Could we control the form that they take by manipulating the stimuli 
+they're subjected to?"
+	"You mean a kind of behavioristic model?"
+	"Well, as much as I prefer real science to psychology..." They both 
+chuckled at that.  "Yes, that is essentially what I mean.  With consistent 
+reinforcements of desirable behaviors, you can shape any mind however you wish."
+	"I've always been skeptical of behaviorism when applied to sentient 
+beings, but on these creatures it would probably work.  The problem is that it 
+would only be temporary.  They could be forced to take a specific form based on 
+what they are subjected to, but as soon as the problem is resolved, they would 
+return to their most basic forms.  It would be almost impossible to make them 
+stay in one form without constantly reinforcing their behavior.  What is 
+possible, however, is to make it take the form of another creature and reproduce 
+with that creature.  Then a hybrid would be produced."
+	"Really?" asked Kagato.  "A superorganism can reproduce with another 
+species?"
+	"It's not technically an organism, but yes, if it determines that that is 
+in the best interest of the group, then it will.  Our job is to make it think 
+that.  The only question is what would be the best creature to mix it with, and 
+to what end."
+	"Perhaps it's possible that we use them as a power source of some kind.  
+We could create a living machine."
+	"You mean a biotechnological application?"
+	"Yes, I'm very fond of the idea of biotechnology.  In fact, I've already 
+started-" Kagato cut himself off sharply.
+	"Started what?"
+	"Now, now, I get to have my secrets too, don't I?"
+	"Fair enough."
+	"But yes, like I said, I am interested in biotechnology.  The idea that 
+one can bring other life forms under control is quite appealing.  With science, 
+it is possible to subjugate the elements and make the natural world do your 
+bidding.  I believe that the ability to control the universe is the greatest 
+achievement of science."
+	"That and the search for knowledge, of course," remarked Washu.
+	"Knowledge to what end?  The only true purpose of knowledge is power.  
+Power to rise above those who lack it.  It's just the way of things that the 
+most powerful rise to the top."
+	"Yes, I see your point about controlling the elements.  In the past, it 
+was possible for a simple disease to destroy a species.  Now science protects us 
+from such ravages."
+	"Exactly.  And if we can harness the power of these mass, then who knows 
+what we'll be capable of."
+	"So, what sort of creature are we going to use, then?"
+	"I think we should use something that is cooperative with humans.  We 
+don't want to create something that we can't control."
+	"True.  And I think I know just the creature.  There's a type of 
+spacefaring, crystalline, nonorganic creature that I have in the lab here.  
+They're very bizarre, but also quite friendly.  They have a long range, too, 
+since they're capable of imaginary space jumps."
+	"How exactly will we bond them?  Are we going to have the mass fertilize 
+one of these crystalline creatures and have it carry the offspring?"
+	"No, that's too risky.  We want to be able to monitor its development, so 
+I think we extract the reproductive cells- perhaps cells is the wrong word for a 
+nonorganic being, but you know what I mean- from each and then bond them in a 
+controlled environment.  A test tube creation, if you will.  The beauty of it is 
+in the way the mass react to commands.  If there is a will stronger than their 
+own present, then they subjugate themselves to it."
+	"All right.  So we'll have a spacefaring creature that can shoot energy 
+blasts, travel long distances, and is friendly to humans.  It sounds to me like 
+we're making a spaceship."
+	"I guess you're right.  We'd better try some simple experiments with mass 
+first before trying a project of this magnitude.  For one thing, I still haven't 
+entirely figured out how they balance the matter and anti-matter aspects of 
+their beings.  That's something I could use a physicist's help with."
+	"We'll figure it out.  I think the two of us can solve any problem 
+together."
+	"I'm beginning to get that feeling myself."
+
+	Over the course of the next few years the two of them continued to work 
+together on this and other projects.  Kagato found his courses to be painfully 
+easy.  The only challenge he found was in his work with Washu.  As for Washu, 
+she was pleased to have found an intellect to match her own.
+	They worked on learning the secrets of mass for the better part of five 
+years.  During that time they had many mishaps.  One time they sent mass out of 
+the lab and, due to the onslaught of new stimuli, the mass essentially panicked 
+and mixed their matter and anti-matter.  Fortunately, Washu was able to pull 
+them into a subspace pocket before the explosion occurred, one which might have 
+destroyed the entire solar system.  There was a horrendous enough investigation 
+as it was.
+	None of this stopped the two of them, however, and within five years they 
+produced the mass/crystal hybrid.  After all that time, they were finally ready 
+to release it.
+	"Are we sure it's ready?" asked Kagato.  "This thing has never been 
+outside of a tank."
+	"We've done enough controlled experimentation.  It's time to let it adapt 
+to the real world."
+	"Is there a chance that the new stimuli will warp it somehow?"
+	"I doubt it.  This thing, while it may be made up of many small individual 
+masses, is essentially one living being.  It isn't just the sum of its parts.  
+Rather than become unbalanced, it will react to the new stimuli like any infant 
+would, with curiosity."
+	Kagato took a deep breath.  "All right, open the tank.  And cross your 
+fingers."  Water drained from the colossal wall tank and the front of it opened 
+wide as they awaited the appearance of their creation.  A small, spiked ship 
+came out of the tank.
+	"Well, this is about what we expected, I suppose," said Kagato.
+	"Yes, it looks just like its parent species."
+	"Is it ready to go?"
+	"No, we should probably wait.  It was just born, after all.  Maybe we'll 
+take it for a test flight tomorrow."
+
+	They did just that.  Washu and Kagato were in the lab and had just awoken 
+the ship.  She sent it some messages using a control device in her hands.  They 
+promptly found themselves teleported onto the bridge.  It was a wide, open space 
+with floating crystals that acted as control centers.  Washu opened a portal and 
+they passe through it into deep space.
+	"Where did you drop us?" asked Kagato.
+	"A ways outside of the system.  I figure we want to stay off radar."
+	"Naturally.  I guess we should take her for a test spin, eh?"
+	"Her?"
+	"Ships are always female.  You should know that."
+	"Oh, of course.  So where should we take her?  You have any particular 
+place in mind?"
+	Kagato hesitated, and tried to start speaking a few times before he 
+finally got out an answer.  "Actually, I do.  How do I work this thing?"  In 
+response, a crystal floated over to him and revealed a navigation screen.  "I 
+see.  Simple enough, I guess."  He input some commands and they disappeared into 
+another dimension.
+	"Where are we going?" asked Washu.
+	"You'll see soon enough."
+	"How long will it take us?"
+	"Normally I'd say about an hour, but in this ship... Well, I guess that's 
+why we're testing it."
+	Washu racked her brain for anything that was one hour's imaginary space 
+jump away from the Academy, but there were too many possibilities.  Reluctantly, 
+she sat back and resigned herself to being surprised.
+
+	"We're almost there," said Kagato.  "I'll ask you to close your eyes now."
+	"Oh, is that really necessary?"
+	"Please?"
+	She sighed heavily.  "Fine."  Washu's eyes shut as the shuttle reappeared 
+in real space.  Kagato maneuvered through space until he got to the position he 
+wanted.
+	"All right.  Open."  Washu opened her eyes and saw that she was inside a 
+larger ship.  It was an enormous, long and thin ship, shaped a bit like a snake.
+	"What is this place?"
+	"A little project I've been working on.  I call it Souja.  It means Twin 
+Snakes.  It's just a skeleton right now, of course, but I've laid the framework 
+for one of the most powerful ships ever built.  It has two layers.  You can only 
+see the main layer, but there's an alternate dimension attached to it that is 
+the exact reverse of what you see.  And the best part of all: It's partly 
+biological.  Or at least it will be, when completed.  This ship will be largely 
+composed of living creatures.  Because of this, it will be capable of evolution, 
+constantly upgrading itself.  The ship will never be outdated because it will be 
+able to adapt to any new technologies that may be developed in the future."
+	Washu looked at the huge structure she was in and tried to find her voice.  
+"How have you built this?" she asked after nearly a minute.
+	"I had already drawn the basic blueprints when I first came here, although 
+obviously I've made a lot of modifications since then.  The materials were no 
+trouble, naturally, thanks to the easy access the Academy has to constructive 
+fusion and fission.  The hard part was the labor, but I set up a tutoring 
+service for some of the rich kids here in exchange for use of their robotic 
+drones."
+	"Why are you showing me this now, though?"
+	"For one, I know that together we can make something even better than 
+this.  More importantly, I don't want to keep any more secrets from you."
+	<And here I am still keeping my greatest secret from him.  But I can't 
+tell him about those.  Not yet.>
+	"You can look at this in depth later," said Kagato, cutting her guilt trip 
+short.  "Right now, I want to show you one other thing.  You said that I could 
+open one subspace tunnel from your lab?  I used it to find a place to build this 
+ship.  And I decided to open it here, at a great place of beauty.  My favorite 
+place in the universe."  The cabbit ship phased through the wall of Souja and 
+out into space that was definitely not empty.
+	They were surrounded by gargantuan clouds of colored gas.  These clouds 
+went as far as they could see and beyond in every direction.  Even the mammoth 
+Souja now seemed dwarfed.  Washu stared out at the vast fields of hydrogen, 
+wholly at a loss for words.
+
+	"Have you ever seen a nebula before, Washu?"
+	"Not personally, no," she answered softly, shaking her head.
+	"When I was young, my parents saved for three years to take me here on my 
+tenth birthday. No picture can ever do it justice."
+	"It's amazing," she whispered.
+	"It is, isn't it.  Random clouds of hydrogen, little more than wandering 
+protons, really, come together here to form coherent stars."  Kagato brushed a 
+lock of Washu's hair with his finger.  "I've always been captivated," he said, 
+running his finger down her cheek, "with how such random events can form 
+something so perfect."  Her eyes widened as Kagato leaned towards her face.
+	"Kagato, don't," she said, turning away quickly.
+	"Why not?"
+	"For starters, you're a student."
+	"Only for a couple more months.  Then I'm applying for a position here, 
+and we both know I'll get it."
+	"You're too young," she protested.
+	"Oh, be serious.  You haven't aged a day in millennia.  Quit making 
+excuses."
+	Washu bowed her head.  "I guess I'm just afraid of history repeating 
+itself."
+	"Look at me, Washu," he said, gently tilting her head up to meet his eyes.  
+"Your husband was a coward.  I promise you that I will not let you down."  He 
+leaned down to kiss her again, and this time she allowed it.
+	She had to admit, she had forgotten what this felt like.  Feeling the 
+warmth of his lips, she realized what she had been missing.  And she realized 
+how good it felt to have someone there with her again.
+
+	One thing that visitors to the Science Academy never failed to notice was 
+that everything in it seemed oversized.  The faculty lounge that Kagato, Washu, 
+and several other professors now occupied was no exception.  It was a cubic 
+building half a kilometer on any edge.  The walls were made of a transparent, 
+glasslike substance, and there were a number of coffee tables and couches set up 
+across the first floor.  On the floors above, through more clear floors, were 
+recreational areas, such as tennis courts, video screens, and soundproofed 
+reading rooms.
+	Kagato and Washu sat around a table with three other professors.  They 
+were passing time there simply for lack of anything better to do.
+	"So... one week until classes start," said one of the others.
+	"And thus we begin our march to the gallows."  This drew a light chuckle 
+from some of the others.
+	"With the way all of you talk, I'm wondering if I'm worried enough yet," 
+said Kagato wryly.
+	"Oh, right, sometimes I forget that it's a first time for some.  Don't 
+worry, though- from what I've seen of your abilities, I'm sure you'll be fine.  
+What have they got you teaching?"
+	"Pretty basic stuff, actually.  Low level imaginary mathematics and tetra-
+dimensional physics."
+	Washu smirked.  "That'll be fun.  Teaching a bunch of freshmen who barely 
+understand real valued calculus."
+	Kagato returned the smirk.  "This from someone who said that the 
+derivative of x squared was two x *cubed*?"
+	"Give me a break.  I made one mistake.  Everyone makes math errors 
+sometimes."
+	"Especially biologists.  Now, if the math's too hard and you need help..."
+	"Oh, you bastard," she said, slapping him playfully.  The other three were 
+amused that those two failed to realize how obvious their flirtation was.
+	"So, Professor Kagato, eh?" said one of those present.
+	"Maybe we should call him Professor Hakubi," whispered another.  They 
+snickered softly.  The five of them sat quietly for a moment.  Then another 
+professor came up to their table with a newspaper and a furious look.
+	"Can you believe this mess," he said angrily, sitting down.  "The universe 
+is about ready to tear itself apart."
+	"You're talking about the Nolithians pulling out of the Galaxy Union?"
+	"Well I guess you haven't heard the latest.  Guess who else is pulling out 
+to fight against the Nolithians."
+	"The Wudarins," everyone said in a disgusted but wholly unsurprised tone.
+	"Damn right.  Two of the biggest empires are about to enter an 
+intergalactic war.  There's even talk of reinstating the old factions."  That 
+statement sent a chill through several of those present.
+	"You mean we might have all the other peoples polarized behind those two 
+power-mad empires?"
+	"I doubt many of them will respond.  Most likely it'll be those two 
+empires going at each other with all the other nations trying to grab what they 
+can and settling old scores of their own."
+	"You know, I'd hoped that the Galaxy Union would be able to hold this 
+universe together, but it looks like we're about to break out into civil war."
+	Kagato laughed bitterly.  "You call the Nolithians and the Wudarins a 
+civil war?  For upper class twits like that battle means a fencing match before 
+teatime.  They'll fight for a while, make a deal, and go back to hating each 
+other like civilized people."
+	"Maybe, but I'm still worried that we're going to be dragged into it."
+	"I thought we separated from Jurai to prevent that from happening?"
+	"We don't have any specific obligations, but we make new technology all 
+the time.  We have to give it to somebody."
+	Without warning, the table began to give off extreme heat.  "Get back!" 
+shouted Kagato, and he held out his hands to form a force field around the table 
+just as it exploded violently.  The blast was completely contained, but Kagato 
+fell to his knees trying to hold in the energy.
+	"I didn't know he could manipulate energy!" said an awed colleague.
+	"Not... forever," he grunted.  "Somebody figure out what to do with this 
+energy, there're gigajoules in here."  Some of the others scampered off to find 
+some equipment to help him.
+
+	"That's the fifth one of these.  And all within a month."  The speaker was 
+the leader of a survey team examining the afternoon's near disaster.
+	"They're getting worse, too," said another.  "The first unexplained events 
+were just things being teleported a few meters or a little matter being brought 
+here from the ethereal plane.  But this..." He whistled, impressed.  "If it 
+wasn't for this kid, this whole building would be rubble."  He patted Kagato on 
+the back congratulatorily.
+	"So this was the worst one yet?" asked Kagato.
+	"The most dangerous, certainly, but not the strangest.  Do you know what 
+happened last week?"
+	"No, sir."
+	"An object in one of the buildings started floating.  But when they 
+examined the records, they found that the gravitons had followed a normal path."
+	"What do you mean?" asked Kagato, sure he had misunderstood.
+	"Just what I said.  The gravitons followed a normal path, but they carried 
+less force than they should have.  It's as if the gravitational constant of that 
+space changed."
+	"But that's completely impossible," protested Kagato.
+	"I know.  Well, anyway, that's enough talk.  You look like you want to get 
+out of here.  Good job, kid."
+	"Thank you, sir."  Kagato left before anyone else could stop him.  Outside 
+Washu was waiting for him and they started walking away together.
+	"Kagato, you just saved my life."  He stopped walking.
+	"I guess so.  I didn't really think about that.  I just did it."
+	"Come with me," she said as she led him back to her office.  Once there 
+they promptly entered the subspace lab.  The two of them traveled to the 
+familiar fourth level of Washu's lab.
+	"What is it you're showing me?"
+	"Come this way," she said, leading him to a door marked "top secret."  
+Kagato's breath drew in sharply at the sight.  She was finally going to show him 
+what was kept in the highest level of her lab.  Washu leaned forward and placed 
+her eye up against a retinal scanner.  The machine beeped and then the door 
+dissolved.  The two walked through into the final level.
+	The place was much smaller than Kagato had expected.  It was in fact only 
+one small room with a pedestal in the center.  Kagato walked slowly to the dais 
+and took in what he saw.  Lying on top, in a perfect triangle, were three ruby-
+colored gems.
+	"What are these?" he asked.
+	"The greatest mystery of my life.  I found them when I was very young and 
+have been trying to figure them out for just as long.  You're the first person 
+besides me to see these.  They contain obscene amounts of energy but I can never 
+understand how it's being used.  It is extremely efficient and disperses energy 
+in incomprehensible patterns.  Until I figure out how the energy is being 
+transmitted, there's no way I can harness it.  But I'm sure you can help."
+	"Why are you showing me these now?"
+	"Because- because I want someone that I can share everything with.  I-"  
+She choked on her words, anxiety nearly overwhelming her.
+	"Say what you want to say, Washu," Kagato urged, kneeling down to look her 
+straight in the eyes.
+	"Kagato, I haven't felt this way in thousands of years.  I-"  Tears welled 
+up in her eyes and her throat became clogged.  She cleared it and swallowed all 
+doubt.  "I love you, Kagato."
+	He smiled at the lovely redhead.  "You don't know how long I've waited to 
+hear you say that, my little Washu."  Their lips met in a kiss that started out 
+tender but quickly grew passionate.  Kagato broke away after a moment.  
+"Although I have to admit that this does make me feel a bit like a pedophile."
+	Washu barked out a laugh.  "If anyone should fell that way, it's me.  I'm 
+15,000 years your elder.  But I suppose if it's a problem..." She then grew a 
+good bit taller, and larger in other dimensions as well.  "That better?" asked 
+Washu in a now sultry voice.
+	Kagato grinned.  "Perfect," he said, using Washu's favorite word.  The two 
+of them then proceeded to show each other for the first time just how deep their 
+feelings ran.
+
+*****
+	"The basic concept of imaginary mathematics is quite simple, and yet it 
+took a great intellectual leap to realize it."  Kagato spoke to a class of 
+freshmen.  The classroom was structured like a traditional class with rows and 
+columns of desks, but some of the desks were a bit abnormal in order to 
+accommodate the many species of students.  "The revelation of the true power of 
+imaginary numbers is what made possible man's ultimate transcendence into the 
+heavens."
+	Kagato pulled out a pen and wrote an equation on the board behind him 
+setting x equal to the square root of negative one.  "The fundamental imaginary 
+number i was derived as a solution to this equation, but once invoked, very 
+little was done with it.  It took centuries for people to realize what these 
+numbers are truly capable of.
+	"The property of continuity is crucial to this intellectual leap.  
+Continuity, of course, means that a function does not make random jumps or skip 
+points on a given domain.  Every point is connected to the points around it.  
+The movement that we undergo throughout our lives can be seen as a continuous 
+function as well.  We are part of a function because we can never be in two 
+places at once.  And if you walk between two points, then you must cross all the 
+points between them, so our motion is continuous.  The domain of this function 
+is our lives.  If we follow continuous functions, then we cannot simply 
+disappear and reappear in another place.  Likewise, we can predict how much 
+energy will be required to travel any distance.  This idea was relatively 
+unchallenged until scientists discovered subatomic particles that, through a 
+process called tunneling, appeared to be able to cover distances using less 
+energy than what appeared to be the minimum.
+	"Now science had a problem.  Geometrically speaking, the shortest and most 
+efficient distance between two points is a straight line.  These particles were 
+covering a distance in a more energy efficient manner than they could if they 
+had traveled in a straight line.  This indicates that they moved in a 
+noncontinuous fashion.  Teleportation was the first noncontinuous property, the 
+one that made all others possible.  But how does it occur?
+	"Let's return to the example we gave earlier.  If you are walking down the 
+street, you cannot simply disappear and reappear at a different point.  However, 
+suppose that there were two beings walking side-by-side.  One of these is 
+capable of flight, while the other is unable to look up (don't ask why, this is 
+just hypothetical).  Say the flyer decides to take off and then land at another 
+point up ahead.  He cannot disappear and reappear at a different point, but in 
+the two-dimensional world of the other creature, that's just what he did.  His 
+motion was clearly continuous in three dimensions, but to someone who cannot 
+look up, it was noncontinuous.  Likewise, tunneling and other properties that 
+are noncontinuous in three dimensions are in fact continuous in four or five 
+dimensions.  In reality, all motion is continuous, as long as you have the right 
+perspective to see it.  Now the only question is how to represent this motion 
+mathematically.  I can tell that some of you already see where this is going, 
+but we'll go through the motions anyway."
+	Kagato drew a line with an arrow on either end and marked a "0" in the 
+center.  "The idea behind real valued calculus is that the real world can be 
+represented in terms of the real numbers," said Kagato, coming down heavily on 
+the word real each time for emphasis.  "The one-dimensional number line suffices 
+to describe the three-dimensional world we inhabit.  It does not suffice to 
+explain the higher-dimensional motions.
+	"It has been said that imagination is more important that knowledge.  It 
+took a great leap of imagination to conceive of existence in dimensions that we 
+cannot see.  It took *the exact same leap* to conceive of a number that we 
+cannot see.  As you know, there is no number on the one-dimensional number line 
+that can be squared to yield a negative number.  So the number i was invoked.  
+It is the first number that is not on the number line, and it and the other 
+imaginaries transform the number line into the number plane.  So if the three-
+dimensional world can be explained through the number line, then higher 
+dimensions can be explained through the number plane.
+*****
+	"This idea is the basis for all higher-dimensional activity: 
+teleportation, anti-gravitation..." Kagato's voice trailed off and he got a far 
+away look in his eyes.
+	"Professor?" asked one of the students.
+	"Um- class dismissed."
+	"But I thought the class was an hour and-"
+	"I said dismissed!" shouted Kagato.  The class quickly shuffled out of the 
+room.
+	"Computer," Kagato said into the air.  A robotic assistant unfolded from 
+the ceiling and hung in front of him.
+	"Yes, professor?"
+	"Tell me the time and place of all of the unexplained physical phenomenon 
+that have occurred at the university recently, with the place in three-
+dimensional polar coordinates and the time in seconds with t=0 the time of the 
+first event."
+	"Coming right up, professor."  The assistant listed several sets of 
+numbers, which Kagato quickly copied down.  He then locked the door of the room 
+and started writing down equations and graphing the data he'd received on a 3D 
+holographic globe.  He spent over four hours in that room, writing parametric 
+equations, functions of time, and performing lots of trial and error 
+calculations.  Finally, he reached the solutions he was looking for.  He steeped 
+back, amazed and exhausted.  He double-checked his work to make sure that there 
+were no errors, but his calculations were flawless.
+	"Computer, please page professor Washu for me."
+	"Yes, professor."  After a few minutes, Washu walked into the classroom.
+	"I rushed over as soon as you called.  What's this all about?"  Kagato 
+gestured at the board.
+	"I figured out why all of these bizarre events are happening.  I found the 
+connection between them.  The location is the range of parametric imaginary 
+functions of time.  Something is transmitting energy through higher dimensions.  
+And from the equations representing the three-dimensional positions of these 
+events, I was able to determine a number of possible sources of the disturbance.  
+One of these is your office."
+	"My office?  But there's nothing in there that can disperse that kind of 
+energy."
+	"No, but there is in a place closely connected to it."
+	Washu frowned for a moment, then her eyes widened.  "You mean-"
+	"Those gems, of course.  They send energy through the subspace tunnel to 
+your office and then out through higher dimensions into the surrounding space.  
+They're easily capable of this, it's just that you never notice in the past 
+because the energy was released in such small quantities as to be too subtle to 
+detect a pattern."
+	"Well, then, let's go take a look at them."  The pair ran to Washu's 
+office and through the portal into the subspace lab, quickly scaling the four 
+levels and reaching the gem room.
+	Washu immediately called up instruments to analyze the gems.  The two of 
+them observed the energy being dispersed by them.
+	"Look at these patterns," Washu said urgently.  "The gems have always, in 
+the past, absorbed energy from the world, metabolized it into a unique form, and 
+then dispersed it gradually.  For some reason, though, they recently started 
+absorbing energy too fast and so they are forced to release it in greater 
+quantities.  These gems are losing the ability to regulate their energy.  
+They're dying."
+	"Dying?" asked Kagato, raising one eyebrow.  "Are they alive?"
+	"Well life is difficult to define.  In some sense yes, in some no.  But 
+regardless of terminology, they will cease to exist if we don't do something."
+	"Then we need to create a moderator of some sort."
+	"Exactly.  And since these gems are part anti-matter..." She let it hang.
+	"Are you suggesting that we use mass?"
+	"Why not?  I think a living being would be best.  And mass are already 
+able to control large amounts of energy."
+	"All right.  Why don't we make it a human form this time?"
+	"How come?"
+	"I just think it's convenient.  It would be nice to have a specimen which 
+could pass with normal people."
+	"Sure, why not.  In that case, I think I should be the human donor.  For 
+security reasons."
+	"Why you and not me?"
+	"It's just easier to obtain the necessary... ingredients from a male 
+creature than a female one."
+	"Wait, you don't mean you're going to-"
+	"Oh, of course not.  Don't be silly."  She grinned devilishly.  "I just 
+need to restrain it long enough to extract a small sample."
+	"Well, I've learned not to get between you and your specimens.  All right, 
+let's get started."
+
+	It didn't take long for them to start creating their latest specimen.  
+Washu built a vertical human-sized tank to grow her (she had checked the sperm 
+and it would be female) in.  Then they placed the gems in the tank with her.  
+The gems surrounded the embryo in such a way so that the energy resonating 
+between them would pass through it.  Sure enough, a connection was formed and 
+the gem energy came under control.  From then on it was just a waiting game.
+	The waiting lasted several months, during which time the two of them 
+completed a number of other projects, including Souja ("Version one!" as Kagato 
+constantly reminded her).  All of this was little more than a distraction from 
+what had become their main project.  Over time, it grew from an almost invisible 
+cell to a beautiful cyan haired girl.
+	It was some time later that the project finally came to fruition.  Washu 
+was working alone in her lab late one night when she heard an alarm on the 
+growth tank.  Startled, she looked up at the tank and saw that the specimen's 
+eyes were open.
+	"B-but it's too early for that!  Um- drain tank!" she shouted.  The water 
+began to sink and the specimen hanging in the water did the same.
+	"Page professor Kagato to my lab!" she shouted into the lab.
+	"Professor Kagato has left for the evening," said a dull mechanical voice.
+	"Then call him at his home!  Tell him it's an emergency.  Tell him the 
+special project is ready early."
+	"Yes, ma'am."  Washu turned her attention back to the now drained tube.  
+The specimen was huddled on the floor.  Her nude body was dripping wet and 
+shivering.  She was leaning against the tube wall with her head between her 
+knees.  The three gems, glowing, lifted off of the floor and embedded themselves 
+into her body, one on each wrist and one at the base of her neck.  Washu walked 
+up to the tube and pressed her hand on a scanner that recognized only two palm 
+prints.
+	"Open tank."  The tank raised into the ceiling and air rushed into the 
+formerly evacuated space, causing the specimen to shiver even more.
+	"Now let's see what you're capable of," said Washu eagerly.  The project 
+looked up at the source of the noise but winced and shut its eyes.
+	"Dim lights," said Washu.  The lights began to fade gradually.  "Set," she 
+said when it was just bright enough for her feline eyes.
+	The specimen looked up again and focused her confused, scared eyes on 
+Washu.  "M-mommy?"  Washu inhaled sharply and was unable to release the breath.  
+<Of course, why didn't I think of this?  Her body and intellect are adult, but 
+her personality is completely unformed.>  She wanted to say no, I'm not your 
+mother, but she knew that, regardless of genetics, the words were a lie.
+	"Yes," she said softly.  "I'm your mommy."
+	"Where am I?  My head hurts and I'm tired."
+	"Yes, that's the usual reaction of an artificially created being upon 
+being released.  The unfamiliar stimuli produce immediate mental exhaustion."  
+The specimen looked at her with blank eyes.  "Oh, you don't understand a word 
+I'm saying.  Here."  A bed floated up and Washu helped her into it.  "Get some 
+rest, little one," she whispered.  Her creation closed its eyes.  Washu 
+increased the temperature until it was comfortable for the wet girl.
+	Washu felt a flood of emotions enter her mind and was shocked at the 
+realization that she was feeling what the girl felt.  She realized that, because 
+her creation was part mass, it had limited telepathic potential.  Washu and Ryo-
+ohki were the only other creatures nearby, and the newborn being, highly 
+impressionable at this stage, spontaneously formed a telepathic link with both 
+of them.  Washu felt the contented emotions coming from her.
+	<I hadn't counted on being a mother again,> Washu thought, softly petting 
+the green head. <But I guess I don't have a choice.>  She smiled at her new de 
+facto daughter and began singing a song her parents had sung to her as a child.
+
+April roses, tiny sparrows, comets bright and new,
+All belong together with the mystery that is you.
+When I see your little face, I hear a song from long ago
+I think you know the many secrets I've forgotten.
+Generations through the ages joined as one somehow,
+Leading to the miracles that I am holding now.
+>From the sky, and from the sea, upon a breeze, you came to me,
+You seem to see a greater universe than I do.
+
+Sleep my baby, sleep my baby,
+Dream of somewhere far away.
+Do you remember still,
+How I hope you always will,
+Keep the memory of the day the world was born. 
+
+When you wake up I'll be waiting eager for your smile
+You've had quite a journey, darling you should rest a while.
+When you cry, we still rejoice,
+To hear your voice, oh yes it's true
+My sweet Washu, please understand how much we love you.
+
+Sleep my baby, sleep my baby,
+Dream of somewhere far away.
+Do you remember still,
+How I hope you always will,
+Keep the memory of the day the world was born.
+
+Sleep my baby, sleep my baby,
+Dream of somewhere far away.
+Do you remember still,
+How I hope you always will,
+Keep the memory of the day the world was born.
+
+
+	"What's going on?" asked Kagato breathlessly as he rushed into the 
+darkened lab twenty minutes later.
+	"Shh!" hissed Washu.  "She's sleeping."
+	"Where are you?" he asked into the darkness.
+	"Just stay by the door; we'll go out of this room."  She walked over to 
+him and they exited to level four.
+	"Now, what happened?  I thought it wasn't due for another two weeks."
+	"She wasn't.  I guess, just like real children, they sometimes surprise 
+you.  Don't worry, though.  Ryoko's the picture of health, and the gems have fit 
+themselves to her just as expected."
+	"Ryoko?"
+	"That's her name.  It means 'spirit caller.'  It seemed appropriate 
+considering that the gems will allow her to contact the ethereal plane."
+	Kagato shook his head and sighed, smiling slightly.  "Honestly, Washu, 
+I'll never understand why you give your creations such names.  I guess it's just 
+one of your quirky little idiosyncrasies."
+	"Hey, you named that ship of yours."
+	"I suppose.  I just don't want you getting too attached to a test 
+subject."  Washu bit her lip nervously and decided not to tell him about the 
+exchange she'd just had with the "test subject."
+	"I wouldn't really call this a test.  We only have one set of gems."
+	"True.  We'll have to be careful with this one.  So, are we ready to start 
+training it?"
+	"Tomorrow.  Right now she's exhausted.  You know what being born is like."
+	"Well, then, let's take a look at what the instruments say about it.  And 
+maybe the recording of when it came out."
+	"All right."  Washu called up the record of Ryoko's birth and the two of 
+them started viewing.  "Hey, watch it, mister," said Washu teasingly.  "I see 
+where those eyes are going."
+
+	"No, you have to focus your energy!" shouted Kagato to Ryoko, who had just 
+destroyed yet another training machine.  They were in a large training room that 
+he and Washu had built in the subspace lab.  It was mostly empty but any 
+necessary equipment could be called up at will.  Ryoko was wearing a skintight 
+red and black combat outfit.  Kagato had insisted that he be allowed to train 
+Ryoko, since he was much more skilled than Washu at combat and energy 
+manipulation.  She eventually agreed to watch from outside the room, where she 
+was now sharing in her daughter's humiliation.
+	"I'm sorry, da- sir," she said, barely avoiding addressing Kagato in a way 
+that had previously infuriated him.
+	Kagato let loose something between a sigh and a growl.  "What good is all 
+the energy in the universe if you can't control it?  All right, let's try 
+something different.  Call a spirit." Ryoko nodded, closed her eyes, and grit 
+her teeth.  Slowly, a white shape appeared in the air and began to grow.  It 
+reached full size, about equal to a one-person spaceship, after ten minutes.
+	"Now, have it attack me."  Obligingly, Ryoko raised her right hand and 
+pointed it at her trainer.  The spirit beast launched itself at Kagato, who 
+easily jumped aside.  "Faster!  You can do better than that!"  The beast 
+continued to chase Kagato, who would not fight back but simply provided a moving 
+target.  It continued to move faster, getting closer to the target all the time.
+	<She's doing it!> though Washu excitedly.  Unfortunately, she sent that 
+thought over her mindlink.  Distracted, Ryoko looked up and quickly lost control 
+of the beast.  It turned and charged her.
+	"No!" shouted Kagato.  Ryoko looked up to see a monster about to bite her 
+head off.  Kagato blasted it into oblivion just before that could happen.  
+Sneering, he turned towards Ryoko, who knew what to expect next.
+	"What were you thinking," he asked Ryoko coldly.  "Losing control of a 
+monster like that could get you killed."
+	"I'm sorry, sir," she said, bowing her head.  "It's just hard."
+	Kagato slapped her across the face fiercely.  "I don't want to hear any 
+excuses.  We're done for today.  Maybe next time you'll be ready for a 
+challenge."  He turned his back and walked away.  "You know," he said while 
+still in earshot, "sometimes I wonder if creating you wasn't a complete waste of 
+time."
+	Kagato walked out of the room just as Washu went in, pushing her way past 
+him.  Inside, Ryoko sat quietly on the floor.  Washu walked up to her daughter 
+and gave her a hug, which she gratefully returned.
+	"Mommy, why was Daddy mad at me?  Did I do something bad?"
+	"No, it's not like that, sweetie. He- he just wants to make sure that you 
+become as strong as you can be, that's all."
+	"I'll get stronger.  I want to make him happy."
+	"You look tired.  Why don't you go to your room now?"
+	"No, I'll stay here and practice some more."  Washu thought about arguing, 
+but decided to leave her be.  Anyway, she needed to have a discussion with 
+someone about parenting techniques.
+	She found Kagato sitting in another room typing on a portable computer.  
+"Do you have to be so hard on her?"
+	"And why not?" he asked, not looking up.
+	"She's just a child."
+	"Created to be a warrior," retorted Kagato, now looking up to meet her 
+eyes.  "Would you rather it be unprepared and get destroyed in battle?"
+	"I suppose not.  It just seems so unfair, though, that that's all there is 
+for her."
+	Kagato stopped for a moment, then stood up and put his arms around her.  
+"I'm sorry.  I know what this is like for you, but trust me, I know what I'm 
+doing.  Do you think my parents ever coddled me?  Told me 'good job?'  My 
+parents were tough, and it just made me stronger.  This will all work out for 
+the best, I promise you."
+	The two of them stood there quietly for a minute until a voice interrupted 
+them.  "A holo-mail message has just been received," a computerized voice 
+announced.
+	"Source?" Washu asked.
+	"Science Academy president Gerald Peters."
+	"Hmm, I wonder what he wants.  Play message," she said, turning to a 
+holographic screen.  An image of the president sitting behind his desk appeared.  
+He was an older looking man (although no one could ever tell someone's real age 
+for sure), tall and thin with thick gray hair, a wrinkled face, and large, round 
+glasses.
+	"This message is to all Science Academy faculty.  As you know, for the 
+last several months the universe has been at war.  After much consideration, the 
+Science Academy has decided to support the Wudarins in this conflict and develop 
+all technology for them."  Washu felt the room grow cold.  The president talked 
+on about ideological reasons for their stance.
+	"For the record, we both know what this war is really about, right?" asked 
+Kagato.
+	"Money and territory."
+	"And pride."
+	"Dammit!" shouted Washu.  "I knew this was going to happen, but why?  Why 
+do we have to turn over our technology to a bunch of war-mongering butchers?"
+	"How much do they know already?"
+	"Fortunately no one knows about our big three."
+	"Yes, Ryo-ohki, Ryoko, and Souja are all still secret."
+	"Right.  I've been smelling this in the wind for a while.  Most of our 
+other, more minor discoveries we've already turned over, but we can keep them 
+from getting their hands on these three.  They're all far too dangerous to turn 
+over."
+	"All right, then.  No mention of Ryoko, Ryo-ohki, or Souja will be made 
+outside of this lab."
+	"Naturally.  I'm not letting them get their hands on any of this."  
+<Especially my daughter.>
+
+	Over the next few weeks, Wudarin soldiers became a regular sight at the 
+Academy.  All members of the faculty were required to turn over their creations 
+to the military.  There was plenty of grumbling about this turn of events, but 
+no one dared criticize out loud.
+	"So we see that this species follows a type three survival curve," said 
+Washu into her unusually quiet classroom.  Even the students had the energy 
+drained from them.  "Therefore-"
+	"Professor Washu?" came a new voice from the door.  Washu looked over and 
+saw the president.  Standing next to him was a military officer whose rank badge 
+marked him as a major.  He hand a hand on his gun holster and his eyes were 
+scanning the room thoroughly.
+	"Can I help you, sir?"
+	"I need to speak with you for a moment."  At this point, every hair on the 
+back of Washu's neck was on end.
+	"Can it wait?"
+	"My apologies, but I'm afraid that this is a bit urgent.  Please come with 
+me."  Washu thought about her options and decided that it was best to go along 
+with them for now.  She walked to the door and shoved her hands in her pockets, 
+gathering a small ball of energy in her right.
+	"What's the problem?" she asked as they stood in the empty hallway.
+	"The Wudarin military command has issued a warrant for your arrest," said 
+the major calmly.
+	"On what charge?"
+	"Treason."
+	"You make me sick, Washu," said Peters venomously.  "I should have fired 
+you years ago, so consider this your official termination.  I've always known 
+you had a wild streak, but I never thought you'd go as far as betraying us like 
+this."
+	"You betrayed us first!  You sold us to these murderers."
+	"I'd tread carefully, *Miss* Washu," said the major, emphasizing the lack 
+of academic title.  "You're on very thin ice."
+	"Did you honestly think we wouldn't figure out what you've been up to?  We 
+saw those energy discharges.  I know you're responsible for them and I want to 
+see what you've been hiding."
+	"You can't prove I'm responsible."
+	"Well, if there's nothing improper in your lab, then we'll forget this 
+whole thing."
+	"And put your hands where I can see them," said the major.
+	"All right."  Washu whipped out her hands and loosed the energy ball at 
+them.  It wasn't a high-energy blast, just enough to blind them while she took 
+off running in the opposite direction.
+	<I've got to get to my lab,> she thought desperately, changing to her 
+adult form so she could cover ground faster.  The hallway turned left ahead.  
+She leapt around it-
+	And halted at the sight of a dozen uniformed troops with weapons raised at 
+her.
+	"I've got to hand it to you, professor, you're quite resourceful," said 
+the major.  "But that's enough theatrics.  Surround her, men."  The troops 
+obliged, and the major placed the barrel of his own gun against her.  "Now 
+unless you're eager to grow a hole in your neck, I suggest you give us a tour of 
+your lab.  And none of the tricks I've heard you're so good at."
+	"Don't you realize how you've endangered us, Washu?" said Peters quietly.  
+"You know if the Wudarins think we can't control our faculty they'll just 
+tighten the leash even more."
+	"If the Academy is going to be turned into a war factory, then frankly I 
+don't care what happens to it."
+	"It's a shame you think that way.  You're going to regret it."  <At last, 
+I've finally got her,> thought Peters to himself.  Washu was also thinking, but 
+not to herself.
+
+	Ryoko's head jerked up and she almost failed to block Kagato's next 
+strike.  "What's wrong with you?" he berated her.  "I told you not to-"
+	"Mommy's in trouble," she said, more to herself than him.  Kagato stopped 
+cold at that remark.
+	"What kind of trouble?"
+	"Some people captured her.  They're bringing her here.  She says they're 
+soldiers.  What are soldiers?"
+	"Enemies.  I think it's time for your first real battle."
+	"Wow, really?" she asked, eyes widening.
+	"Yes.  We're going to hide near the door.  When the enemies come in, you 
+stay hidden until I shoot, then get rid of the enemies as quick as possible."
+	"Got it!" she said excitedly, giving him a thumbs-up.
+	"Let's get ready."
+
+	The entourage marched swiftly down the hall with a grave faced Washu in 
+the center.  People in the hall stepped aside quickly to make way and speculated 
+on the cause.  There were different ideas from different people, but there was 
+no doubt about what it meant for Washu. She got looks ranging from concern to 
+disappointment to contempt, as well as a satisfied smirk from Dr. Clay.
+	They opened the door to her cramped office and entered two at a time with 
+Washu still in the center.  She then opened the door to her subspace lab.
+	"Let's go," said the major, pushing Washu forward to follow the soldiers.  
+They walked into the still lab.
+	"Now for-" The major's gun exploded in his hand, Washu returned to her 
+child form to make a smaller target and drew an energy sword, and Kagato and 
+Ryoko jumped out in ambush.  Within seconds it was over.
+	Most of the soldiers were already dead.  A couple were merely unconscious.  
+Peters was on the ground but still aware, and picked up the gun of one of the 
+fallen soldiers.  Ryoko flew over to him and slapped it out of his hand before 
+he even had a chance to aim it.  She picked him up by his collar and grinned 
+wildly as she began charging an energy blast.
+	"Ryoko, that's enough!" shouted Washu.
+	"What?" asked Kagato.  Ryoko was just as confused but did as she was told, 
+dropping the terrified man on his back as the lab's exit appeared behind him.
+	"Get the hell out of here," ordered Washu.  He quickly scuttled out the 
+door.  "Let's get these others out too."  Washu picked up a soldier and dragged 
+him to the portal.  Ryoko did the same, throwing the soldiers out two at a time.  
+Once the last soldier was gone, the subspace hole closed.
+	"Why did you let him go?" asked Kagato.
+	"He can't do anything more to us.  I've already destroyed all the tunnels 
+from here to the academy."
+	"I know that, but he didn't deserve to be released."
+	"It's not my place to decide that.  Anyway, it's all water under the 
+bridge.  What are we going to do now?"
+	"I guess we're officially fugitives," said Kagato, shaking his head.
+	"On the run from people like that.  They're the criminals, not us."
+	"Agreed.  We should be running the universe, not them.  And we have the 
+ability to do it. The only question is where to start."
+	"Wait a minute, you're not serious?"
+	"Why not?  You've seen what's happening.  A thousand weaklings are pulling 
+the galaxy in a thousand directions.  We have Souja, Ryoko, Ryo-ohki, and an 
+unlimited supply of future ideas.  Between the two of us, we can rule this 
+universe."
+	"That just doesn't feel right to me.  Why should we take so much power?"
+	"Because we can."  He sighed, smiling somewhat condescendingly.  "Look, 
+Washu, I understand your feelings.  Feelings are good to have, but they don't 
+run the universe.  You're a biologist.  You know about survival of the fittest.  
+The strong rule the weak.  That's the will of the universe, and no amount of 
+human feelings can stop it."
+	"Survival of the fittest requires an equal chance for all participants.  
+But some people never have a chance to become strong.  Should they just be swept 
+aside?"
+	"It's a pity, but some sacrifices will be necessary.  As a whole, though, 
+the species will become stronger when the weak cannot survive."
+	"We're not gods, Kagato!  We can't make these decisions."  Ryoko quietly 
+floated out of the room to get away from her parents.  Lately, they seemed to be 
+fighting a lot.
+	"We're the most powerful beings I know of."
+	"But why are you only now talking like this?"
+	"I'd always assumed that we'd become powerful through our science.  We'd 
+be renowned as the best of the Academy.  Now that war is pulling the universe 
+apart, it's only natural that we fight.  Would you rather us spend our lives 
+running?"
+	"And anyone caught in the middle be damned."
+	"If they can't survive, then that's their own fault."
+	"Do you think you are somehow meant to do this?"
+	"If you mean do I believe it's my destiny, then no.  I don't believe in 
+fate.  I simply believe that the strong prevail.  If ever a being defeated me, I 
+would bear it no ill will, because it would be more fit to survive than I."
+	"The way you're talking, though.  It's like you're becoming what you're 
+fighting."
+	"You're in no position to talk about that, Washu," said Kagato in the 
+gravest of tones as a faraway look appeared in his eyes.  "You may not have led 
+a charmed life, but you haven't seen what I've seen.  On Trolax it was like this 
+every day.  Not just the armies, but also the gangs that ruled the cities.  I 
+was in one of those as long as I can remember.  It's not an easy life.  Every 
+day you're faced with the chance of death.  But it's better to become your fear 
+than to be beaten by it.  And I'd rather be marked a villain than a victim.  At 
+least this way you can fight back." Washu was stunned.  Kagato never talked this 
+openly about his life on Trolax.
+	"Kagato, I'm sorry, but I don't think I can help you with this."
+	"Don't say that, Washu.  I can't bear to think of life without you."
+	"If you have to go, then just go," she said sadly.  "The only thing I ask 
+is please don't take Ryoko with you."
+	Kagato felt as though a knife had been driven into his heart.  He was 
+tough, and he never cried.  He hadn't cried when his best friend had been gunned 
+down in front of him.  But he was crying now.  "You... really mean that," he 
+said shakily.  "You honestly care more about that test tube baby than me?"
+	"She's my daughter."
+	"It's not your daughter!" he screamed, his voice cracking horribly.  "That 
+thing is just an experiment we cooked up.  We could have taken any other ovum 
+and it wouldn't be your daughter then."
+	"I made her!  Don't you get it?  We both made her!  We're both responsible 
+for her life!  If we aren't her parents, then who is?"
+	"No one!  It doesn't have parents; it's just a tool we made.  How could 
+you choose that thing over me?"
+	"How could you force me to make that choice?"
+	Kagato screamed.  "Damn you, Washu!" he yelled, reflexively shooting an 
+energy beam that caught her completely off guard, rendering her unconscious.  
+Kagato stood there numb over her limp body for a moment.  Then he leaned down 
+and scooped her up in his arms.
+	"I hope you know, I still love you," he said, tears falling on her 
+motionless face.  "I hope, someday, you'll see it my way.  Until then..."  He 
+opened the subspace tunnel to Souja and entered it, then opened a door to the 
+reversed world and gave her to one of his drones to lock up.
+	"Ryoko," he called weakly into the lab.
+	"Yes, sir?"
+	"Come this way.  It's time for us to go."
+	"Are you and mommy done fighting?"
+	Kagato sighed softly.  "For now."
+
+<That's it for chapter two.  I hope someone out there is enjoying reading this.  
+If so, please tell me at dukesr1@winthrop.edu  If you aren't enjoying it, then 
+tell me why so I'll know what to do better next time around.  In case you 
+haven't guessed the pattern, the next chapter will deal with Tsunami.  See ya 
+then!>
+
+Jurgan

@@ -1,0 +1,248 @@
+=========================================================================
+
+DISCLAIMER: This is one part of a multi-part story. It has been modified
+as a .txt document for the Tenchi Muyo! Fan Fiction Archive
+(www.tmffa.com) and can be viewed with its original bold/italics at
+FanFiction.Net (www.fanfiction.net).
+
+"Tenchi Muyo!", Washu, and all related images and properties are (c)
+Pioneer and AIC Animation. This is a work of fan-fiction. The author has
+received no monterary compensation. Any attempt to profit from this
+document in any way is punishable by law.
+
+To leave feedback, send fan-art, or make arrangements to host this fic on
+your website, please contact me at takisjoh@msu.edu
+
+=========================================================================
+
+                              WASHU'S LULLABY
+                           A "Tenchi Muyo!" Novel
+
+                                     by
+                                 John Takis
+
+=========================================================================
+
+                              - INTRODUCTION -
+
+=========================================================================
+
+
+
+COVER ARTWORK:
+
+I have designed and edited (not drawn) cover artwork for Washu's Lullaby.
+It can be viewed at http://www.msu.edu/~takisjoh/wl.jpg
+
+If, for some reason, you feel compelled to create fan art for this story,
+I would be thrilled to receive it.
+
+
+
+DISCLAIMER:
+
+Tenchi Muyo!, Washu, and all related images and characters are the 
+property of Pioneer Entertainment, a division of AIC International. This 
+story is a work of fan fiction, created solely for entertainment 
+purposes, and may not be sold or otherwise profited from.
+
+
+
+ACKNOWLEDGEMENTS:
+
+Several people need to be acknowledged for their role in the creation of 
+this story.
+
+First and foremost, Mr. Masaki Kajishima . In addition to co-creating 
+Tenchi Muyo! Ryo-ohki, upon which this website is based, he wrote the 
+"True Tenchi Novels" (with Yosuke Kuroda) from which I derived a 
+significant portion of material. It is his universe that I am primarily 
+writing about, and I owe him a debt of gratitude and inspiration.
+
+This work would not have been possible without the English translations 
+of Tatsumingo . He translated large portions of the "True Tenchi Novels" 
+into readable English. Without his groundbreaking work, I would never 
+have known where to begin. You can read them at 
+http://homepage2.nifty.com/tatsumingo/index_e.html
+
+I am not a talented web-designer, but I will try to set up a website to 
+permanently house this novel, as well as any fan art I may receive. I 
+will post a link here when it is ready. If you want to link to or house 
+this story on your website, I will give permission -- I only ask that you 
+contact me first, and that you not make any changes.
+
+Finally, my good friends Jeff Shaw, Andrew Demshuk and Diane Long 
+provided valuable feedback and editing services. It's very hard for an 
+author to get perspective on his or her own work. If you've ever tried to 
+get anything published, you know the value of a good proof-reader. I owe 
+these guys a lot for their constructive criticism and constant support.
+
+You can read my professionally published fan-fiction in the books "Star 
+Trek: Strange New Worlds III" and "Star Trek: Strange New Worlds V," 
+available from Pocket Books.
+
+
+
+AUTHOR'S NOTES: (You might want to skip these for now!)
+
+Of all the many incarnations of Tenchi Muyo!, what sets the original OAV 
+series' apart in my mind is the staggeringly detailed and complex myth-
+ology. Every character has a past, and everyone's past is intertwined in 
+significant ways. This is the way of all good legends. Not much of this 
+intricate history is specifically laid out in the OAV episodes them-
+selves, but the fact that it was there in the mind of the creator goes a 
+long way towards establishing the creative legitimacy of the series as 
+revealed through the show's little details and overall themes. The back-
+story continued to be developed through original novels and other sources.
+
+Unfortunately for the English-speaking consumer, most of this literature 
+-- and the most significant literature -- has remained available in 
+Japanese only. The "True Tenchi Novels," which delve into the far-flung 
+past of the Tenchi-verse, have gone completely unrepresented on an 
+official level. English-speakers have been forced to glean their infor-
+mation second-hand, over the course of message-board posts and approxi-
+mate translations ... removing the tale from its origins in the novel 
+format. I have endeavored to correct this.
+
+I must begin by stating that I do not speak or read Japanese. All of my 
+information has been gathered in the same way many have: exploring the 
+internet and asking lots of questions! I owe a particular debt to 
+Tatsumingo and his English translations. Many of his sentences have been 
+transcribed verbatim, and I wish to give him full credit. For all his 
+hard effort, however, Tatsumingo's translations fall short of 
+professional-quality English fiction. This is not to his detriment -- I 
+have yet to master a second language with anywhere near the efficiency he 
+has displayed -- but I have attempted to "clean up" his prose where I 
+have utilized it.
+
+Why have I concentrated on Washu? For starters, she's 20,000 years old. 
+Her life encompassed most of the significant events in the Tenchi-verse. 
+Secondly, her role as a central character is due to become more prominent 
+in future Tenchi OAVs. Most Tenchi fanfiction is projectionist ... that 
+is to say, people try to figure out what will happen next. That is a 
+realm I'm willing to leave to the original creators. I want to know what 
+happened before, and therefore this fic is reconstructive in nature.
+
+I will now discuss the source-material and the changes/expansions/
+deductions I contributed. Beware: SPOILER MATERIAL BELOW! I highly 
+recommend you read the story first, then come back here for the 
+commentary.
+
+Go ahead and skip to the next "chapter." I'll wait.
+
+Alright. Let's start with the source material. The original "Washu" novel 
+(as translated by Tatsumingo) provided the basis for "Washu's Lullaby," 
+but the latter goes far beyond its source. The original novel was much 
+shorter, for example. It began with Washu's finding and continued through 
+her last visit with her son. Certain details were skimmed over or 
+compressed that might have flowed differently in a different novel.
+
+My response was, in most cases, to do a total re-write. I wanted it to 
+feel like a longer, more complete novel, and that meant lots of little 
+expansions and elaborations. The entire prologue, in fact, was re-done 
+from scratch. It's hard to pinpoint them all, but here are some of the 
+major additions to this part of the story:
+
+(1) Most of the scenes on Kanemitsu were my own invention, based on 
+    condensed paragraphs in the original novel. The Reverend Mother and 
+    the monastery inhabitants were my creations.
+
+(2) The journey to the Academy was described, but not written out.
+
+(3) Professor Ikuma's lecture is new.
+
+(4) The romance between Washu and Mikamo was severely underdeveloped. 
+    Most of the "courtship" scenes were mine, along with scenes involving 
+    Washu's personal fears and insecurities. The picnic scene is mine, 
+    and was inspired by Washu's reflections in the OAV episode "Hello 
+    Baby."
+
+(5) Yume was not in the original work. Her inclusion is a tip of the hat 
+    to the Tenchi mangas -- which are not truly "canon." Call it an 
+    easter egg. You'll find several throughout the novel.
+
+(6) The infiltration of the space station and most of the scenes on 
+    Seniwa are new. Only the first bedroom scene and most of the scene 
+    where Washu lets her son go was in the original prologue.
+
+>From this point on, everything is original. You won't see re-written 
+material until the final part, where I adapt material in part from the 
+"Jurai" and "Yosho" novels. Also from this point on, I had to do lots of 
+detective work. Not everything is spelled out, and I had to make some 
+inferences. Where I took liberties, I did it because I felt they best 
+suited the story. Here is an explanation of some of the choices I made 
+and why:
+
+(1) No one knows the exact extent of Washu's interaction with Tsunami. 
+    She recognizes Tsunami on sight in the OAV, where she is also 
+    approached by Funaho in a cryptic conversation. In addition, a scene 
+    in the "Yosho" novel, where Washu briefly enters Ryoko's mind during 
+    the attempt to kidnap Tsunami, has Washu recognize Tsunami. I decided 
+    to give them minor but significant contact in the past.
+
+(2) Most people assume that Dr. Clay was kicked out of the Academy 
+    immediately after he lost the Director's Chair. He was too useful to 
+    the story, so I put a large gap between those two events. The scene 
+    where Clay is humiliated with a pornographic video has been alluded 
+    to by several of my sources, but it was not included in Tatsumingo's 
+    translation. So I took my best guess.
+
+(3) The story of Naja's "death" is recounted in sketchy detail by the 
+    character of Seto in the "Yosho" novel. I felt her character was too 
+    important to let go that easily, so I further developed her final 
+    scenes.
+
+(4) Washu and Naja are generally credited with inspiring the trans-
+    formation of the "Royal Science Academy" into the "Galaxy Academy," 
+    but it is not explicitly explained how.
+
+(5) There is some controversy regarding the creation of Kagato. Some 
+    claim he was a clone of Naja that Washu made after her friend's 
+    death. I had different ideas that worked better in terms of story 
+    construction. Besides, I think it makes sense that Naja is to Kagato 
+    is to Soja what Washu is to Ryoko is to Ryo-ohki.
+
+(6) Tokimi's involvement with the Shank guild pirates is never explicitly 
+    stated. But the Shank pirates DID have Light-Hawk wings during their 
+    attack on Washu's ship. They were not Washu's, and they were probably 
+    not Tsunami's. That leaves Tokimi, so I created a concept in shich it 
+    made sense.
+
+(7) Again, there are different schools of thought regarding the creation 
+    of Ryoko. Did she know Washu? This is pure speculation. In the OAV, 
+    her memories go back only 2,000 years. Washu has been a captive of 
+    Kagato for 5,000 years. Some people have theorized that this is 
+    because Kagato erased her memories ... but again, there is no direct 
+    evidence for that in the OAV. My personal theory is that Kagato 
+    activated Ryoko once she became necessary ... in other words, once he 
+    needed access to the power of the gems but could not access that 
+    power directly.
+
+(8) The OAV never states WHY Kagato spent 5,000 years robbing museums and 
+    destroying ruins. Presumably, he was searching for "the greatest 
+    power in the universe." The TTM novels explain that artifacts from 
+    across the galaxy were connected with "godlike patterns." I just 
+    connected the dots.
+
+This doesn't cover everything, of course. Every minor line in the OAV was 
+meticulously analyzed for any information it could possibly provide. (For 
+example: Yukinojo mentions in passing that the planet from which Washu 
+was kidnapped was called "Todain.")
+
+Just remember that my first goal was to produce an engaging and coherent 
+story. I have given every attention to canon-compatible minutae, but 
+where a choice needed to be made it was done with the best interests of 
+the story in mind.
+
+I hope you enjoyed it.
+
+-- John Takis (4/20/02)
+
+PS - Good feedback is ALWAYS appreciated. Please let me know what you 
+thought!
+
+
+
+=========================================================================
+BEGIN THE STORY WITH: Washu's Lullaby - Prelude
+=========================================================================
